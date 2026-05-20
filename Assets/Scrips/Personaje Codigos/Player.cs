@@ -64,7 +64,11 @@ public class Player : Entity
 
     private void FixedUpdate()
     {
-        if (!_animator.GetBool("Muerto")) { _pleControls.ArtificialUpdate(); }
+        if (!_animator.GetBool("Muerto")) 
+        { 
+            _pleControls.ArtificialUpdate();
+            _pleControls.Disparo();
+        }
         else { _rb.linearVelocity = Vector2.zero; }
     }
 

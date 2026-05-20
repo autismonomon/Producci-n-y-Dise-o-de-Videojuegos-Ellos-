@@ -14524,7 +14524,7 @@ MonoBehaviour:
   _cantBalas: 0
   _tempRecarga: 1
   _maxAmmo: 4
-  _fireRate: 2
+  _fireRate: 5
   _hijoAnimator: {fileID: 457878554}
   _bala: {fileID: 5289691547504688196, guid: 21b6d0c284a781943876ad347bdc5d0f, type: 3}
   _rotSpownPoint: {fileID: 457878552}

@@ -41,4 +41,11 @@ public class PleControls
 
         if (Input.GetKeyDown(KeyCode.R)) { _player.Recarga(); }
     }
+
+    public void Disparo()
+    {
+        if (Input.GetMouseButtonDown(0)) { _player.Disparo(); }
+
+        if (Input.GetKeyDown(KeyCode.R)) { _player.Recarga(); }
+    }
 }
