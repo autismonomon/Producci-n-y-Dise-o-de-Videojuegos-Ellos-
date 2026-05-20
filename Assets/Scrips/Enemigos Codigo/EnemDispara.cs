@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class EnemDispara : Enemigos
@@ -18,6 +19,8 @@ public class EnemDispara : Enemigos
     private void Start()
     {
         _rb = GetComponent<Rigidbody2D>();
+        _meTrans = GetComponent<Transform>();
+        _animator = GetComponentInChildren<Animator>();
         _vidaActual = _vidaMax;
     }
 
@@ -26,19 +29,25 @@ public class EnemDispara : Enemigos
         _dirBala = _player.transform.position - _spownBala.transform.position;
         _spownBala.transform.right = _dirBala;
         _hit = Physics2D.Raycast(_spownBala.transform.position, _dirBala, _rangoVision);
-        if (_hit.collider == null)  { Debug.Log("Manco te falto colider"); }
-        else if (_hit.transform.gameObject.layer == 7) { Comportamiento(); } 
+        if (_hit.collider != null && _hit.transform.gameObject.layer == 7) { Comportamiento(); } 
     }
 
     private void Comportamiento() //Pasar a una FMS para mejorar el comportamiento
     {
         Debug.Log(_hit.transform.name);
-        if (_dirBala.magnitude <= _rangoAccion) { Correr(); }
-        else if (_dirBala.magnitude <= _rangoVision) { Disparo(); }
-    }    
+        if (!_player.GetComponent<Animator>().GetBool("Muerto"))
+        {
+            _animator.SetBool("Atacar", false);
+            _animator.SetBool("Correr", false);
+            if (_dirBala.magnitude <= _rangoAccion) { Correr(); }
+            else if (_dirBala.magnitude <= _rangoVision) { Disparo(); }
+        }
+    }
 
     private void Correr()
     {
+        _animator.SetBool("Atacar", false);
+        _animator.SetBool("Correr", true);
         var dri = _player.transform.position - transform.position;
         dri = dri.normalized;
         _rb.linearVelocity= -dri * _velocidad;
@@ -49,6 +58,8 @@ public class EnemDispara : Enemigos
         _rb.linearVelocity = Vector2.zero;
         if (_contador >= _velDisparo)
         {
+            _animator.SetBool("Atacar", true);
+            _animator.SetBool("Correr", false);
             Instantiate(_bala, _spownBala.transform.position, _spownBala.transform.rotation);
             BalaEnem.instance.Daño(_daño);
             _contador = 0;
@@ -73,6 +84,13 @@ public class EnemDispara : Enemigos
 
     public override void Muerto()
     {
+        _animator.SetBool("Muerto", true);
+        StartCoroutine(Destruir());
+    }
+
+    IEnumerator Destruir()
+    {
+        yield return new WaitForSeconds(1);
         Destroy(gameObject);
     }
 }

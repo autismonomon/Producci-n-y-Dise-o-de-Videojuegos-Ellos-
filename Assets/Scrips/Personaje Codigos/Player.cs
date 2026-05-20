@@ -5,6 +5,8 @@ using UnityEngine.InputSystem;
 public class Player : Entity
 {
     [Header("Variables Player")]
+    public bool mori = false;
+
     [SerializeField]
     private float _radio;
     [SerializeField]
@@ -62,7 +64,7 @@ public class Player : Entity
 
     private void FixedUpdate()
     {
-        _pleControls.ArtificialUpdate();
+        if (!_animator.GetBool("Muerto")) { _pleControls.ArtificialUpdate(); }
     }
 
     public override void DañoRecivido(int dañoRes)
@@ -76,7 +78,8 @@ public class Player : Entity
 
     public override void Muerto()
     {
-        Destroy(gameObject);
+        _rotSpownPoint.gameObject.SetActive(false);
+        _animator.SetBool("Muerto",true);
     }
 
 

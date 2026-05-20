@@ -1,5 +1,6 @@
 using UnityEngine;
 
+[RequireComponent(typeof(Rigidbody2D), typeof(Collider2D))]
 public abstract class Entity : MonoBehaviour
 {
     [SerializeField]
