@@ -1,0 +1,1346 @@
+fileFormatVersion: 2
+guid: 6f78993949e16ac46a583e9a4043c598
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8733598138979275185
+    second: sprite sheet de muerte jugador 91x92_0
+  - first:
+      213: -1728670458630944063
+    second: sprite sheet de muerte jugador 91x92_1
+  - first:
+      213: -2022650606346736340
+    second: sprite sheet de muerte jugador 91x92_2
+  - first:
+      213: 715208089844437971
+    second: sprite sheet de muerte jugador 91x92_3
+  - first:
+      213: 2970847675492019335
+    second: sprite sheet de muerte jugador 91x92_4
+  - first:
+      213: 8654830509203424752
+    second: sprite sheet de muerte jugador 91x92_5
+  - first:
+      213: -4638796328265314799
+    second: sprite sheet de muerte jugador 91x92_6
+  - first:
+      213: 5582008881087167731
+    second: sprite sheet de muerte jugador 91x92_7
+  - first:
+      213: -3505613578547576155
+    second: sprite sheet de muerte jugador 91x92_8
+  - first:
+      213: -8441858314845529045
+    second: sprite sheet de muerte jugador 91x92_9
+  - first:
+      213: 4639910986120781948
+    second: sprite sheet de muerte jugador 91x92_10
+  - first:
+      213: 6948805149988958054
+    second: sprite sheet de muerte jugador 91x92_11
+  - first:
+      213: -3145036884063983279
+    second: sprite sheet de muerte jugador 91x92_12
+  - first:
+      213: 6417605155710697712
+    second: sprite sheet de muerte jugador 91x92_13
+  - first:
+      213: -4797006174574989882
+    second: sprite sheet de muerte jugador 91x92_14
+  - first:
+      213: -8313031902894257321
+    second: sprite sheet de muerte jugador 91x92_15
+  - first:
+      213: 7051019241764355440
+    second: sprite sheet de muerte jugador 91x92_16
+  - first:
+      213: -6401262863383953748
+    second: sprite sheet de muerte jugador 91x92_17
+  - first:
+      213: 847279404068082818
+    second: sprite sheet de muerte jugador 91x92_18
+  - first:
+      213: -4667538395411048930
+    second: sprite sheet de muerte jugador 91x92_19
+  - first:
+      213: -5575352239558556191
+    second: sprite sheet de muerte jugador 91x92_20
+  - first:
+      213: -3119912099709747846
+    second: sprite sheet de muerte jugador 91x92_21
+  - first:
+      213: 9016235424622240952
+    second: sprite sheet de muerte jugador 91x92_22
+  - first:
+      213: 4779218763099294861
+    second: sprite sheet de muerte jugador 91x92_23
+  - first:
+      213: -1541162718750432859
+    second: sprite sheet de muerte jugador 91x92_24
+  - first:
+      213: 3693066320731561024
+    second: sprite sheet de muerte jugador 91x92_25
+  - first:
+      213: 5936508547245593821
+    second: sprite sheet de muerte jugador 91x92_26
+  - first:
+      213: -571146339290426425
+    second: sprite sheet de muerte jugador 91x92_27
+  - first:
+      213: 1117607936955158123
+    second: sprite sheet de muerte jugador 91x92_28
+  - first:
+      213: 5948486098963724865
+    second: sprite sheet de muerte jugador 91x92_29
+  - first:
+      213: 4230350030832022490
+    second: sprite sheet de muerte jugador 91x92_30
+  - first:
+      213: -7570916552464210746
+    second: sprite sheet de muerte jugador 91x92_31
+  - first:
+      213: -292127063253694436
+    second: sprite sheet de muerte jugador 91x92_32
+  - first:
+      213: -492848181922015909
+    second: sprite sheet de muerte jugador 91x92_33
+  - first:
+      213: 6175115484856997560
+    second: sprite sheet de muerte jugador 91x92_34
+  - first:
+      213: 6213378518649926035
+    second: sprite sheet de muerte jugador 91x92_35
+  - first:
+      213: -1117456490660959865
+    second: sprite sheet de muerte jugador 91x92_36
+  - first:
+      213: 1313150210048591424
+    second: sprite sheet de muerte jugador 91x92_37
+  - first:
+      213: -7076717052300313300
+    second: sprite sheet de muerte jugador 91x92_38
+  - first:
+      213: -2027096269091669360
+    second: sprite sheet de muerte jugador 91x92_39
+  - first:
+      213: 989481611457968398
+    second: sprite sheet de muerte jugador 91x92_40
+  - first:
+      213: 6669536885062795308
+    second: sprite sheet de muerte jugador 91x92_41
+  - first:
+      213: 9121142019723452737
+    second: sprite sheet de muerte jugador 91x92_42
+  - first:
+      213: -1683426136095800309
+    second: sprite sheet de muerte jugador 91x92_43
+  - first:
+      213: -8854713336335493921
+    second: sprite sheet de muerte jugador 91x92_44
+  - first:
+      213: -7838812417622875642
+    second: sprite sheet de muerte jugador 91x92_45
+  - first:
+      213: -5005824709151223255
+    second: sprite sheet de muerte jugador 91x92_46
+  - first:
+      213: 4978718622031388667
+    second: sprite sheet de muerte jugador 91x92_47
+  - first:
+      213: -1374016854137951883
+    second: sprite sheet de muerte jugador 91x92_48
+  - first:
+      213: 6821093871110258241
+    second: sprite sheet de muerte jugador 91x92_49
+  - first:
+      213: 8607139898518525877
+    second: sprite sheet de muerte jugador 91x92_50
+  - first:
+      213: 5983399252083876101
+    second: sprite sheet de muerte jugador 91x92_51
+  - first:
+      213: -6548729314166465420
+    second: sprite sheet de muerte jugador 91x92_52
+  - first:
+      213: 8441800082942207114
+    second: sprite sheet de muerte jugador 91x92_53
+  - first:
+      213: 6186336440744073928
+    second: sprite sheet de muerte jugador 91x92_54
+  - first:
+      213: 5911766571080693618
+    second: sprite sheet de muerte jugador 91x92_55
+  - first:
+      213: -929394510533850402
+    second: sprite sheet de muerte jugador 91x92_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ea023e3c60cc680800000000000000
+      internalID: -8733598138979275185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca479370678208e0800000000000000
+      internalID: -1728670458630944063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d69ff6df91ee3e0800000000000000
+      internalID: -2022650606346736340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3d9a7e7fdece900800000000000000
+      internalID: 715208089844437971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_4
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c2f7b78329a3920800000000000000
+      internalID: 2970847675492019335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_5
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5884c2e722c1870800000000000000
+      internalID: 8654830509203424752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_6
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e0c5c115faf9fb0800000000000000
+      internalID: -4638796328265314799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_7
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcb64aa087477d40800000000000000
+      internalID: 5582008881087167731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_8
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2c2ea160f895fc0800000000000000
+      internalID: -3505613578547576155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_9
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c547be69e78da80800000000000000
+      internalID: -8441858314845529045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_10
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7069256576446040800000000000000
+      internalID: 4639910986120781948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_11
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f2f72b77d1f6060800000000000000
+      internalID: 6948805149988958054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_12
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1596dd7fd959a54d0800000000000000
+      internalID: -3145036884063983279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_13
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f00ade13e9ef0950800000000000000
+      internalID: 6417605155710697712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_14
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd2a13cc4c9d6db0800000000000000
+      internalID: -4797006174574989882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_15
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b8f75578d22ac80800000000000000
+      internalID: -8313031902894257321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_16
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07dfec974a04ad160800000000000000
+      internalID: 7051019241764355440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_17
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae791257552a27a0800000000000000
+      internalID: -6401262863383953748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_18
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2849bf0012422cb00800000000000000
+      internalID: 847279404068082818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_19
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16170e1f82993fb0800000000000000
+      internalID: -4667538395411048930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_20
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e50f677dae50a2b0800000000000000
+      internalID: -5575352239558556191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_21
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d7b5ea978d3b4d0800000000000000
+      internalID: -3119912099709747846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_22
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4e6ef395a102d70800000000000000
+      internalID: 9016235424622240952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_23
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c4a66c422335240800000000000000
+      internalID: 4779218763099294861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_24
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a12ec73ca0bc9ae0800000000000000
+      internalID: -1541162718750432859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_25
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cd9238048604330800000000000000
+      internalID: 3693066320731561024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_26
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4d4ac1217b26250800000000000000
+      internalID: 5936508547245593821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_27
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c354d33e61e218f0800000000000000
+      internalID: -571146339290426425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_28
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e8e505f7a828f00800000000000000
+      internalID: 1117607936955158123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_29
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14af41037944d8250800000000000000
+      internalID: 5948486098963724865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_30
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad33e4f80f835ba30800000000000000
+      internalID: 4230350030832022490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_31
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4ee3a0283bee690800000000000000
+      internalID: -7570916552464210746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_32
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c184c75dbf722fbf0800000000000000
+      internalID: -292127063253694436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_33
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b555754903d0929f0800000000000000
+      internalID: -492848181922015909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_34
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b65ae9f0da62b550800000000000000
+      internalID: 6175115484856997560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_35
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391fb23c7da5a3650800000000000000
+      internalID: 6213378518649926035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_36
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789e2360e3ffd70f0800000000000000
+      internalID: -1117456490660959865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_37
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0460dae982f393210800000000000000
+      internalID: 1313150210048591424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_38
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2db0b1c5537acd90800000000000000
+      internalID: -7076717052300313300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_39
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a754beeae4ed3e0800000000000000
+      internalID: -2027096269091669360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_40
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09bbba78485bbd00800000000000000
+      internalID: 989481611457968398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_41
+      rect:
+        serializedVersion: 2
+        x: 3731
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c208882d574fe8c50800000000000000
+      internalID: 6669536885062795308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_42
+      rect:
+        serializedVersion: 2
+        x: 3822
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141618f475ec49e70800000000000000
+      internalID: 9121142019723452737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_43
+      rect:
+        serializedVersion: 2
+        x: 3913
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04c66039d443a8e0800000000000000
+      internalID: -1683426136095800309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_44
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd41fc7822dbd1580800000000000000
+      internalID: -8854713336335493921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet de muerte jugador 91x92_45
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 0
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602eaa253a1f63390800000000000000
+      internalID: -7838812417622875642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7481c76f096519f4a9ad62ba35dbde7d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprite sheet de muerte jugador 91x92_0: -8733598138979275185
+      sprite sheet de muerte jugador 91x92_1: -1728670458630944063
+      sprite sheet de muerte jugador 91x92_10: 4639910986120781948
+      sprite sheet de muerte jugador 91x92_11: 6948805149988958054
+      sprite sheet de muerte jugador 91x92_12: -3145036884063983279
+      sprite sheet de muerte jugador 91x92_13: 6417605155710697712
+      sprite sheet de muerte jugador 91x92_14: -4797006174574989882
+      sprite sheet de muerte jugador 91x92_15: -8313031902894257321
+      sprite sheet de muerte jugador 91x92_16: 7051019241764355440
+      sprite sheet de muerte jugador 91x92_17: -6401262863383953748
+      sprite sheet de muerte jugador 91x92_18: 847279404068082818
+      sprite sheet de muerte jugador 91x92_19: -4667538395411048930
+      sprite sheet de muerte jugador 91x92_2: -2022650606346736340
+      sprite sheet de muerte jugador 91x92_20: -5575352239558556191
+      sprite sheet de muerte jugador 91x92_21: -3119912099709747846
+      sprite sheet de muerte jugador 91x92_22: 9016235424622240952
+      sprite sheet de muerte jugador 91x92_23: 4779218763099294861
+      sprite sheet de muerte jugador 91x92_24: -1541162718750432859
+      sprite sheet de muerte jugador 91x92_25: 3693066320731561024
+      sprite sheet de muerte jugador 91x92_26: 5936508547245593821
+      sprite sheet de muerte jugador 91x92_27: -571146339290426425
+      sprite sheet de muerte jugador 91x92_28: 1117607936955158123
+      sprite sheet de muerte jugador 91x92_29: 5948486098963724865
+      sprite sheet de muerte jugador 91x92_3: 715208089844437971
+      sprite sheet de muerte jugador 91x92_30: 4230350030832022490
+      sprite sheet de muerte jugador 91x92_31: -7570916552464210746
+      sprite sheet de muerte jugador 91x92_32: -292127063253694436
+      sprite sheet de muerte jugador 91x92_33: -492848181922015909
+      sprite sheet de muerte jugador 91x92_34: 6175115484856997560
+      sprite sheet de muerte jugador 91x92_35: 6213378518649926035
+      sprite sheet de muerte jugador 91x92_36: -1117456490660959865
+      sprite sheet de muerte jugador 91x92_37: 1313150210048591424
+      sprite sheet de muerte jugador 91x92_38: -7076717052300313300
+      sprite sheet de muerte jugador 91x92_39: -2027096269091669360
+      sprite sheet de muerte jugador 91x92_4: 2970847675492019335
+      sprite sheet de muerte jugador 91x92_40: 989481611457968398
+      sprite sheet de muerte jugador 91x92_41: 6669536885062795308
+      sprite sheet de muerte jugador 91x92_42: 9121142019723452737
+      sprite sheet de muerte jugador 91x92_43: -1683426136095800309
+      sprite sheet de muerte jugador 91x92_44: -8854713336335493921
+      sprite sheet de muerte jugador 91x92_45: -7838812417622875642
+      sprite sheet de muerte jugador 91x92_5: 8654830509203424752
+      sprite sheet de muerte jugador 91x92_6: -4638796328265314799
+      sprite sheet de muerte jugador 91x92_7: 5582008881087167731
+      sprite sheet de muerte jugador 91x92_8: -3505613578547576155
+      sprite sheet de muerte jugador 91x92_9: -8441858314845529045
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
