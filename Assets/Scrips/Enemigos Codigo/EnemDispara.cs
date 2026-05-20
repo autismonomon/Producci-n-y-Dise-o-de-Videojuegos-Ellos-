@@ -26,10 +26,16 @@ public class EnemDispara : Enemigos
 
     private void Update()
     {
+        
+        if(_player.transform.position.x < transform.position.x) { transform.localScale = new Vector3(Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z); }
+        else { transform.localScale = new Vector3(-Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z); }
         _dirBala = _player.transform.position - _spownBala.transform.position;
         _spownBala.transform.right = _dirBala;
         _hit = Physics2D.Raycast(_spownBala.transform.position, _dirBala, _rangoVision);
-        if (_hit.collider != null && _hit.transform.gameObject.layer == 7) { Comportamiento(); } 
+        if (_hit.collider != null)
+        {
+            if (_hit.transform.gameObject.layer == 7) { Comportamiento(); }
+        }
     }
 
     private void Comportamiento() //Pasar a una FMS para mejorar el comportamiento
