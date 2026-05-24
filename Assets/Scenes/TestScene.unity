@@ -1745,7 +1745,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &173512108
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2540,6 +2540,9 @@ MonoBehaviour:
   _velDisparo: 25
   _bala: {fileID: 5289691547504688196, guid: 07dc195edba1feb4b887f699c52737c8, type: 3}
   _spownBala: {fileID: 132748081}
+  _personajeLayer:
+    serializedVersion: 2
+    m_Bits: 4294967286
 --- !u!50 &284574790
 Rigidbody2D:
   serializedVersion: 5
@@ -13818,7 +13821,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1452301603
 RectTransform:
   m_ObjectHideFlags: 0
@@ -19290,8 +19293,12 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1230388882151299433, guid: 4fdc566f7f5c1f14c9166fa0d6cd2b4b, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1230388882151299433, guid: 4fdc566f7f5c1f14c9166fa0d6cd2b4b, type: 3}
       propertyPath: m_IsTrigger
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1343926218821949038, guid: 4fdc566f7f5c1f14c9166fa0d6cd2b4b, type: 3}
       propertyPath: m_Constraints
@@ -19324,6 +19331,10 @@ PrefabInstance:
     - target: {fileID: 6863777615396876895, guid: 4fdc566f7f5c1f14c9166fa0d6cd2b4b, type: 3}
       propertyPath: _animator
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6863777615396876895, guid: 4fdc566f7f5c1f14c9166fa0d6cd2b4b, type: 3}
+      propertyPath: _personajeLayer.m_Bits
+      value: 384
       objectReference: {fileID: 0}
     - target: {fileID: 8564150558196515554, guid: 4fdc566f7f5c1f14c9166fa0d6cd2b4b, type: 3}
       propertyPath: m_LocalScale.x
