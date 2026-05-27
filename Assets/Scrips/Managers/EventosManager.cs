@@ -86,7 +86,7 @@ public class EventosManager : MonoBehaviour
 
     private IEnumerator CDParedes()
     {
-        yield return new WaitForSeconds(3);
+        yield return new WaitForSeconds(15);
         if(_primerosEnemigos != null) { _primerosEnemigos = null; }
         else { _segundosEnemigos = null; }
     }

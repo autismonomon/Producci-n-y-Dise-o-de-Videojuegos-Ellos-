@@ -17,7 +17,7 @@ public class CinematicsManager : MonoBehaviour
         }
         if (numero == 6)
         {
-            SceneManager.LoadScene(1);
+            SceneManager.LoadScene(2);
         }
     }
 }
