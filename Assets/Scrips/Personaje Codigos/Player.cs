@@ -1,4 +1,5 @@
 using System.Collections;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -167,6 +168,24 @@ public class Player : Entity
         yield return new WaitForSeconds(_tempRecarga);
         _cantBalas = _maxAmmo;
         _recargando = false;
+    }
+
+    private void OnCollisionEnter2D(UnityEngine.Collision2D collision)
+    {
+        if(collision.gameObject.layer == 13) 
+        {
+            _vidaActual += 10;
+            if(_vidaActual > _vidaMax) { _vidaActual = _vidaMax;}
+            Destroy(collision.gameObject);
+        }
+
+        if(collision.gameObject.layer == 12) { GameManager.instance.Victory(); }
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.layer == 14) { EventosManager.instance.Eventos(); }
+        if (collision.gameObject.layer == 15) { EventosManager.instance.Eventos(); }
     }
 
     Vector3 PointForAngle(float angulo, float distancia)

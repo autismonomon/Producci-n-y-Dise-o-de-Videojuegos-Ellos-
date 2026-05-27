@@ -18,11 +18,12 @@ public class BalaPlayer : Balas
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision != null && collision.gameObject.layer != 7)
+        if (collision.gameObject.layer == 9)
         {
             collision.GetComponent<Entity>().DañoRecivido(_daño);
             Destroy(gameObject);
         }
+        if(collision.gameObject.layer == 11) { Destroy(gameObject); }
     }
 
     protected override void OnBecameVisible()

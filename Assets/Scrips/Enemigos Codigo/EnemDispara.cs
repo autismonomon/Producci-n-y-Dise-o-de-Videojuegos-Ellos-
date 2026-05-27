@@ -88,7 +88,10 @@ public class EnemDispara : Enemigos
     public override void DañoRecivido(int dañoRes)
     {
         _vidaActual -= dañoRes;
-        if(_vidaActual <= 0) { Muerto(); }
+        if(_vidaActual <= 0)
+        {
+            Muerto();
+        }
     }
 
     public override void Muerto()
@@ -101,5 +104,6 @@ public class EnemDispara : Enemigos
     {
         yield return new WaitForSeconds(1);
         Destroy(gameObject);
+        //gameObject.SetActive(false);
     }
 }
