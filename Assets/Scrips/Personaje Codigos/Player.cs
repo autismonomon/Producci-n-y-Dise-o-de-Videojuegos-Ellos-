@@ -60,7 +60,11 @@ public class Player : Entity
 
     private void Update()
     {
-        
+        if (!_animator.GetBool("Muerto"))
+        {
+            
+            _pleControls.Disparo();
+        }
     }
 
     private void FixedUpdate()
@@ -68,7 +72,7 @@ public class Player : Entity
         if (!_animator.GetBool("Muerto")) 
         { 
             _pleControls.ArtificialUpdate();
-            _pleControls.Disparo();
+            
         }
         else { _rb.linearVelocity = Vector2.zero; }
     }
@@ -177,6 +181,7 @@ public class Player : Entity
             _vidaActual += 10;
             if(_vidaActual > _vidaMax) { _vidaActual = _vidaMax;}
             Destroy(collision.gameObject);
+            UIManager.ActualizarVida(_vidaActual, _vidaMax);
         }
 
         if(collision.gameObject.layer == 12) { GameManager.instance.Victory(); }
@@ -184,8 +189,16 @@ public class Player : Entity
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.layer == 14) { EventosManager.instance.Eventos(); }
-        if (collision.gameObject.layer == 15) { EventosManager.instance.Eventos(); }
+        if (collision.gameObject.layer == 14) 
+        { 
+            EventosManager.instance.Eventos();
+            Destroy(collision.gameObject);
+        }
+        if (collision.gameObject.layer == 15) 
+        { 
+            EventosManager.instance.Eventos();
+            Destroy(collision.gameObject);
+        }
     }
 
     Vector3 PointForAngle(float angulo, float distancia)
