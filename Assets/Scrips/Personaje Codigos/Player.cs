@@ -62,26 +62,27 @@ public class Player : Entity
     {
         if (!_animator.GetBool("Muerto"))
         {
-            
+
             _pleControls.Disparo();
         }
     }
 
     private void FixedUpdate()
     {
-        if (!_animator.GetBool("Muerto")) 
-        { 
+        if (!_animator.GetBool("Muerto"))
+        {
             _pleControls.ArtificialUpdate();
-            
+
         }
         else { _rb.linearVelocity = Vector2.zero; }
     }
 
     public override void DañoRecivido(int dañoRes)
-    {    
-        _vidaActual-= dañoRes;
+    {
+        _vidaActual -= dañoRes;
         UIManager.ActualizarVida(_vidaActual, _vidaMax);
         UIManager.Instance.efectoDePantalla.SetTrigger("Dañado");
+        SoundManager.instance.PlaySFX(SoundManager.instance.recibirDaño);
         //Object.FindAnyObjectByType<UIManager>().salud.SetFloat("vidaActual", _vidaActual);
         if (_vidaActual <= 0) { Muerto(); }
     }
@@ -89,7 +90,16 @@ public class Player : Entity
     public override void Muerto()
     {
         _rotSpownPoint.gameObject.SetActive(false);
-        _animator.SetBool("Muerto",true);
+        StartCoroutine(PersonajeMuerto());
+
+    } 
+
+    IEnumerator PersonajeMuerto()
+    {
+        _animator.SetBool("Muerto", true);
+        yield return new WaitForSeconds(0.5f);
+        SoundManager.instance.PlaySFX(SoundManager.instance.morir);
+
     }
 
 

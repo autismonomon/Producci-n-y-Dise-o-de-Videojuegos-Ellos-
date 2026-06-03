@@ -1,3 +1,4 @@
+using DG.Tweening;
 using System.Collections;
 using UnityEngine;
 
@@ -88,7 +89,8 @@ public class EnemDispara : Enemigos
     public override void DañoRecivido(int dañoRes)
     {
         _vidaActual -= dañoRes;
-        if(_vidaActual <= 0)
+        
+        if (_vidaActual <= 0)
         {
             Muerto();
         }
@@ -103,7 +105,9 @@ public class EnemDispara : Enemigos
     IEnumerator Destruir()
     {
         yield return new WaitForSeconds(1);
-        Destroy(gameObject);
+        _animator.GetComponent<SpriteRenderer>().DOFade(0, 1).OnComplete(() => Destroy(gameObject));
+        DOTween.Kill(gameObject);
+        //Destroy(gameObject);
         //gameObject.SetActive(false);
     }
 }

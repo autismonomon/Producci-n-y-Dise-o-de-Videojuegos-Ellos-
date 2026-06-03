@@ -12,6 +12,8 @@ public class SoundManager : MonoBehaviour
     public AudioClip pocaVida;
     public AudioClip golpearEnemigo;
     public AudioClip golpearObjeto;
+    public AudioClip recibirDaño;
+    public AudioClip morir;
 
     public static SoundManager instance;
 
