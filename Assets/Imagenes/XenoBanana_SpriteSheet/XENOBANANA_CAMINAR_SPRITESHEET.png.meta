@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 37eef47d6d117df4082b62a6f5ec80bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2372585342699728114
+    second: XENOBANANA_CAMINAR_SPRITESHEET_0
+  - first:
+      213: 6306217862749899441
+    second: XENOBANANA_CAMINAR_SPRITESHEET_1
+  - first:
+      213: 2704959700653643058
+    second: XENOBANANA_CAMINAR_SPRITESHEET_2
+  - first:
+      213: -2993664281848057619
+    second: XENOBANANA_CAMINAR_SPRITESHEET_3
+  - first:
+      213: 7941842689754589813
+    second: XENOBANANA_CAMINAR_SPRITESHEET_4
+  - first:
+      213: -6663521277390463458
+    second: XENOBANANA_CAMINAR_SPRITESHEET_5
+  - first:
+      213: 4271705752919344381
+    second: XENOBANANA_CAMINAR_SPRITESHEET_6
+  - first:
+      213: -4848447797174815907
+    second: XENOBANANA_CAMINAR_SPRITESHEET_7
+  - first:
+      213: -2183631571656268650
+    second: XENOBANANA_CAMINAR_SPRITESHEET_8
+  - first:
+      213: 1284565759553948819
+    second: XENOBANANA_CAMINAR_SPRITESHEET_9
+  - first:
+      213: 781665995786779106
+    second: XENOBANANA_CAMINAR_SPRITESHEET_10
+  - first:
+      213: 3659475426098164421
+    second: XENOBANANA_CAMINAR_SPRITESHEET_11
+  - first:
+      213: 6841676162784928323
+    second: XENOBANANA_CAMINAR_SPRITESHEET_12
+  - first:
+      213: -7329000294183723162
+    second: XENOBANANA_CAMINAR_SPRITESHEET_13
+  - first:
+      213: 1708227277219446373
+    second: XENOBANANA_CAMINAR_SPRITESHEET_14
+  - first:
+      213: 963415583635031996
+    second: XENOBANANA_CAMINAR_SPRITESHEET_15
+  - first:
+      213: -2052803934679860229
+    second: XENOBANANA_CAMINAR_SPRITESHEET_16
+  - first:
+      213: -6930618074113286436
+    second: XENOBANANA_CAMINAR_SPRITESHEET_17
+  - first:
+      213: -278250107223863976
+    second: XENOBANANA_CAMINAR_SPRITESHEET_18
+  - first:
+      213: -7545611348943197662
+    second: XENOBANANA_CAMINAR_SPRITESHEET_19
+  - first:
+      213: -2357344645081693543
+    second: XENOBANANA_CAMINAR_SPRITESHEET_20
+  - first:
+      213: 8082757655219058077
+    second: XENOBANANA_CAMINAR_SPRITESHEET_21
+  - first:
+      213: 2327977186199367981
+    second: XENOBANANA_CAMINAR_SPRITESHEET_22
+  - first:
+      213: 5473718284810635039
+    second: XENOBANANA_CAMINAR_SPRITESHEET_23
+  - first:
+      213: -7619454040471361214
+    second: XENOBANANA_CAMINAR_SPRITESHEET_24
+  - first:
+      213: -2945873998488852135
+    second: XENOBANANA_CAMINAR_SPRITESHEET_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: XENOBANANA_CAMINAR_SPRITESHEET_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3706
+        width: 708
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0395198332e21fd0800000000000000
+      internalID: -2372585342699728114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_CAMINAR_SPRITESHEET_1
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 3706
+        width: 708
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba4e610cbf248750800000000000000
+      internalID: 6306217862749899441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_CAMINAR_SPRITESHEET_2
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 3706
+        width: 708
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23515392482f98520800000000000000
+      internalID: 2704959700653643058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_CAMINAR_SPRITESHEET_3
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 3706
+        width: 708
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0fbaf523e5476d0800000000000000
+      internalID: -2993664281848057619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_CAMINAR_SPRITESHEET_4
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 3706
+        width: 708
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57aead049d7173e60800000000000000
+      internalID: 7941842689754589813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_CAMINAR_SPRITESHEET_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3316
+        width: 708
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e52ebf3ba6683a0800000000000000
+      internalID: -6663521277390463458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_CAMINAR_SPRITESHEET_6
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 3316
+        width: 708
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df400c3ffb5284b30800000000000000
+      internalID: 4271705752919344381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_CAMINAR_SPRITESHEET_7
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 3316
+        width: 708
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53be59aa6ad6bcb0800000000000000
+      internalID: -4848447797174815907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_CAMINAR_SPRITESHEET_8
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 3316
+        width: 708
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694a91ba7ae22b1e0800000000000000
+      internalID: -2183631571656268650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_CAMINAR_SPRITESHEET_9
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 3316
+        width: 708
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cc7dc90c1b3d110800000000000000
+      internalID: 1284565759553948819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_CAMINAR_SPRITESHEET_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2926
+        width: 708
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e97fdbe41909da00800000000000000
+      internalID: 781665995786779106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_CAMINAR_SPRITESHEET_11
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 2926
+        width: 708
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c23ad4e28119c230800000000000000
+      internalID: 3659475426098164421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_CAMINAR_SPRITESHEET_12
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 2926
+        width: 708
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342ad07a83482fe50800000000000000
+      internalID: 6841676162784928323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_CAMINAR_SPRITESHEET_13
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 2926
+        width: 708
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f127a20192a4a90800000000000000
+      internalID: -7329000294183723162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_CAMINAR_SPRITESHEET_14
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 2926
+        width: 708
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e3c4678a7d4b710800000000000000
+      internalID: 1708227277219446373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_CAMINAR_SPRITESHEET_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2536
+        width: 708
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb744a17e5dbe5d00800000000000000
+      internalID: 963415583635031996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_CAMINAR_SPRITESHEET_16
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 2536
+        width: 708
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbf1e792b9f283e0800000000000000
+      internalID: -2052803934679860229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_CAMINAR_SPRITESHEET_17
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 2536
+        width: 708
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde5392e49f71df90800000000000000
+      internalID: -6930618074113286436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_CAMINAR_SPRITESHEET_18
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 2536
+        width: 708
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d05307005732cf0800000000000000
+      internalID: -278250107223863976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_CAMINAR_SPRITESHEET_19
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 2536
+        width: 708
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22aa51dd47a984790800000000000000
+      internalID: -7545611348943197662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_CAMINAR_SPRITESHEET_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2146
+        width: 708
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9928cb8f887094fd0800000000000000
+      internalID: -2357344645081693543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_CAMINAR_SPRITESHEET_21
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 2146
+        width: 708
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95b6ec5349bb2070800000000000000
+      internalID: 8082757655219058077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_CAMINAR_SPRITESHEET_22
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 2146
+        width: 708
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2170acaae2ae4020800000000000000
+      internalID: 2327977186199367981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_CAMINAR_SPRITESHEET_23
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 2146
+        width: 708
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17c2be67cd86fb40800000000000000
+      internalID: 5473718284810635039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_CAMINAR_SPRITESHEET_24
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 2146
+        width: 708
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2492a477be2424690800000000000000
+      internalID: -7619454040471361214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_CAMINAR_SPRITESHEET_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1756
+        width: 708
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959230fc4372e17d0800000000000000
+      internalID: -2945873998488852135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6634531719c6d074cbb2c44bf85b6947
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      XENOBANANA_CAMINAR_SPRITESHEET_0: -2372585342699728114
+      XENOBANANA_CAMINAR_SPRITESHEET_1: 6306217862749899441
+      XENOBANANA_CAMINAR_SPRITESHEET_10: 781665995786779106
+      XENOBANANA_CAMINAR_SPRITESHEET_11: 3659475426098164421
+      XENOBANANA_CAMINAR_SPRITESHEET_12: 6841676162784928323
+      XENOBANANA_CAMINAR_SPRITESHEET_13: -7329000294183723162
+      XENOBANANA_CAMINAR_SPRITESHEET_14: 1708227277219446373
+      XENOBANANA_CAMINAR_SPRITESHEET_15: 963415583635031996
+      XENOBANANA_CAMINAR_SPRITESHEET_16: -2052803934679860229
+      XENOBANANA_CAMINAR_SPRITESHEET_17: -6930618074113286436
+      XENOBANANA_CAMINAR_SPRITESHEET_18: -278250107223863976
+      XENOBANANA_CAMINAR_SPRITESHEET_19: -7545611348943197662
+      XENOBANANA_CAMINAR_SPRITESHEET_2: 2704959700653643058
+      XENOBANANA_CAMINAR_SPRITESHEET_20: -2357344645081693543
+      XENOBANANA_CAMINAR_SPRITESHEET_21: 8082757655219058077
+      XENOBANANA_CAMINAR_SPRITESHEET_22: 2327977186199367981
+      XENOBANANA_CAMINAR_SPRITESHEET_23: 5473718284810635039
+      XENOBANANA_CAMINAR_SPRITESHEET_24: -7619454040471361214
+      XENOBANANA_CAMINAR_SPRITESHEET_25: -2945873998488852135
+      XENOBANANA_CAMINAR_SPRITESHEET_3: -2993664281848057619
+      XENOBANANA_CAMINAR_SPRITESHEET_4: 7941842689754589813
+      XENOBANANA_CAMINAR_SPRITESHEET_5: -6663521277390463458
+      XENOBANANA_CAMINAR_SPRITESHEET_6: 4271705752919344381
+      XENOBANANA_CAMINAR_SPRITESHEET_7: -4848447797174815907
+      XENOBANANA_CAMINAR_SPRITESHEET_8: -2183631571656268650
+      XENOBANANA_CAMINAR_SPRITESHEET_9: 1284565759553948819
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

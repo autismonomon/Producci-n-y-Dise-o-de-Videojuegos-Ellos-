@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 4f7f9ddbd39d50f4d9113957d3839ff5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4617812268529174212
+    second: XENOBANANA_MUERTE_SPRITESHEET_0
+  - first:
+      213: -6914758569756619608
+    second: XENOBANANA_MUERTE_SPRITESHEET_1
+  - first:
+      213: -3146225146925439412
+    second: XENOBANANA_MUERTE_SPRITESHEET_2
+  - first:
+      213: 3537867793124632347
+    second: XENOBANANA_MUERTE_SPRITESHEET_3
+  - first:
+      213: 7049770109078164769
+    second: XENOBANANA_MUERTE_SPRITESHEET_4
+  - first:
+      213: 6512836223112389959
+    second: XENOBANANA_MUERTE_SPRITESHEET_5
+  - first:
+      213: 4114062553553793102
+    second: XENOBANANA_MUERTE_SPRITESHEET_6
+  - first:
+      213: 345112474044323550
+    second: XENOBANANA_MUERTE_SPRITESHEET_7
+  - first:
+      213: 6544961479362182567
+    second: XENOBANANA_MUERTE_SPRITESHEET_8
+  - first:
+      213: 3618840457406304352
+    second: XENOBANANA_MUERTE_SPRITESHEET_9
+  - first:
+      213: -6486588654776925271
+    second: XENOBANANA_MUERTE_SPRITESHEET_10
+  - first:
+      213: 527001969479584914
+    second: XENOBANANA_MUERTE_SPRITESHEET_11
+  - first:
+      213: 253914402281249268
+    second: XENOBANANA_MUERTE_SPRITESHEET_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: XENOBANANA_MUERTE_SPRITESHEET_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1682
+        width: 702
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c64f11cac3c51040800000000000000
+      internalID: 4617812268529174212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_MUERTE_SPRITESHEET_1
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1676
+        width: 687
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac811e77b7d900a0800000000000000
+      internalID: -6914758569756619608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_MUERTE_SPRITESHEET_2
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1703
+        width: 683
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46ab16f5ec5654d0800000000000000
+      internalID: -3146225146925439412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_MUERTE_SPRITESHEET_3
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 1698
+        width: 654
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b172d7f6308091130800000000000000
+      internalID: 3537867793124632347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_MUERTE_SPRITESHEET_4
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 1703
+        width: 629
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12555cb1090d5d160800000000000000
+      internalID: 7049770109078164769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_MUERTE_SPRITESHEET_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1323
+        width: 627
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74529e6d90e326a50800000000000000
+      internalID: 6512836223112389959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_MUERTE_SPRITESHEET_6
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1321
+        width: 622
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e407f406816181930800000000000000
+      internalID: 4114062553553793102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_MUERTE_SPRITESHEET_7
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 1318
+        width: 622
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6d7f677f51ac400800000000000000
+      internalID: 345112474044323550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_MUERTE_SPRITESHEET_8
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 1315
+        width: 622
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad7ffde9cf54da50800000000000000
+      internalID: 6544961479362182567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_MUERTE_SPRITESHEET_9
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 1312
+        width: 622
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060d38af834b83230800000000000000
+      internalID: 3618840457406304352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_MUERTE_SPRITESHEET_10
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 938
+        width: 622
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a341f36cf10bf5a0800000000000000
+      internalID: -6486588654776925271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_MUERTE_SPRITESHEET_11
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 936
+        width: 622
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c03c2cf79405700800000000000000
+      internalID: 527001969479584914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_MUERTE_SPRITESHEET_12
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 934
+        width: 622
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f95457bdc5168300800000000000000
+      internalID: 253914402281249268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      XENOBANANA_MUERTE_SPRITESHEET_0: 4617812268529174212
+      XENOBANANA_MUERTE_SPRITESHEET_1: -6914758569756619608
+      XENOBANANA_MUERTE_SPRITESHEET_10: -6486588654776925271
+      XENOBANANA_MUERTE_SPRITESHEET_11: 527001969479584914
+      XENOBANANA_MUERTE_SPRITESHEET_12: 253914402281249268
+      XENOBANANA_MUERTE_SPRITESHEET_2: -3146225146925439412
+      XENOBANANA_MUERTE_SPRITESHEET_3: 3537867793124632347
+      XENOBANANA_MUERTE_SPRITESHEET_4: 7049770109078164769
+      XENOBANANA_MUERTE_SPRITESHEET_5: 6512836223112389959
+      XENOBANANA_MUERTE_SPRITESHEET_6: 4114062553553793102
+      XENOBANANA_MUERTE_SPRITESHEET_7: 345112474044323550
+      XENOBANANA_MUERTE_SPRITESHEET_8: 6544961479362182567
+      XENOBANANA_MUERTE_SPRITESHEET_9: 3618840457406304352
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

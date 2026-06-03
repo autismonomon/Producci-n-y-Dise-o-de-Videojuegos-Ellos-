@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 31ae3ae40aa46f540995582d3308bd8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1747613765107774367
+    second: SPINAS_ATAQUE_ANIM_SPRITESHEET_0
+  - first:
+      213: 1213816046395646419
+    second: SPINAS_ATAQUE_ANIM_SPRITESHEET_1
+  - first:
+      213: -926813533772258865
+    second: SPINAS_ATAQUE_ANIM_SPRITESHEET_2
+  - first:
+      213: -6033208293551833462
+    second: SPINAS_ATAQUE_ANIM_SPRITESHEET_3
+  - first:
+      213: -4694484385735633836
+    second: SPINAS_ATAQUE_ANIM_SPRITESHEET_4
+  - first:
+      213: -954500848642845941
+    second: SPINAS_ATAQUE_ANIM_SPRITESHEET_5
+  - first:
+      213: -6861362434545111508
+    second: SPINAS_ATAQUE_ANIM_SPRITESHEET_6
+  - first:
+      213: -7806989737356737323
+    second: SPINAS_ATAQUE_ANIM_SPRITESHEET_7
+  - first:
+      213: 7541441866111659549
+    second: SPINAS_ATAQUE_ANIM_SPRITESHEET_8
+  - first:
+      213: 2583185039413367273
+    second: SPINAS_ATAQUE_ANIM_SPRITESHEET_9
+  - first:
+      213: -5622824014485983956
+    second: SPINAS_ATAQUE_ANIM_SPRITESHEET_10
+  - first:
+      213: -8005600494690175495
+    second: SPINAS_ATAQUE_ANIM_SPRITESHEET_11
+  - first:
+      213: 5362809633125006584
+    second: SPINAS_ATAQUE_ANIM_SPRITESHEET_12
+  - first:
+      213: 3759105431416296418
+    second: SPINAS_ATAQUE_ANIM_SPRITESHEET_13
+  - first:
+      213: 8248368658593960917
+    second: SPINAS_ATAQUE_ANIM_SPRITESHEET_14
+  - first:
+      213: 557336494841044398
+    second: SPINAS_ATAQUE_ANIM_SPRITESHEET_15
+  - first:
+      213: 1980997748535477762
+    second: SPINAS_ATAQUE_ANIM_SPRITESHEET_16
+  - first:
+      213: 5431151521674607262
+    second: SPINAS_ATAQUE_ANIM_SPRITESHEET_17
+  - first:
+      213: -571938223174135423
+    second: SPINAS_ATAQUE_ANIM_SPRITESHEET_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPINAS_ATAQUE_ANIM_SPRITESHEET_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1692
+        width: 532
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c0b263a8a3fb7e0800000000000000
+      internalID: -1747613765107774367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_ATAQUE_ANIM_SPRITESHEET_1
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1692
+        width: 533
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1e41c534758d010800000000000000
+      internalID: 1213816046395646419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_ATAQUE_ANIM_SPRITESHEET_2
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1688
+        width: 527
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1ea72600c4323f0800000000000000
+      internalID: -926813533772258865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_ATAQUE_ANIM_SPRITESHEET_3
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1687
+        width: 526
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ef6e6b50db54ca0800000000000000
+      internalID: -6033208293551833462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_ATAQUE_ANIM_SPRITESHEET_4
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 1687
+        width: 524
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4541c98d257d9deb0800000000000000
+      internalID: -4694484385735633836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_ATAQUE_ANIM_SPRITESHEET_5
+      rect:
+        serializedVersion: 2
+        x: 2683
+        y: 1686
+        width: 522
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0395da098ee0c2f0800000000000000
+      internalID: -954500848642845941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_ATAQUE_ANIM_SPRITESHEET_6
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 1686
+        width: 521
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2eaab5083b87c0a0800000000000000
+      internalID: -6861362434545111508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_ATAQUE_ANIM_SPRITESHEET_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1325
+        width: 521
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d44bb3723008a390800000000000000
+      internalID: -7806989737356737323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_ATAQUE_ANIM_SPRITESHEET_8
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1325
+        width: 521
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e28d3cb6598a860800000000000000
+      internalID: 7541441866111659549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_ATAQUE_ANIM_SPRITESHEET_9
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1325
+        width: 521
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e156576b1159d320800000000000000
+      internalID: 2583185039413367273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_ATAQUE_ANIM_SPRITESHEET_10
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1325
+        width: 521
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2de60e8957b7f1b0800000000000000
+      internalID: -5622824014485983956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_ATAQUE_ANIM_SPRITESHEET_11
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 970
+        width: 533
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5fc4cf3c466e090800000000000000
+      internalID: -8005600494690175495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_ATAQUE_ANIM_SPRITESHEET_12
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 1325
+        width: 521
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc757ca2f68c6a40800000000000000
+      internalID: 5362809633125006584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_ATAQUE_ANIM_SPRITESHEET_13
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 1325
+        width: 521
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e35fc829760b2430800000000000000
+      internalID: 3759105431416296418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_ATAQUE_ANIM_SPRITESHEET_14
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 1325
+        width: 521
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d355ffd797187270800000000000000
+      internalID: 8248368658593960917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_ATAQUE_ANIM_SPRITESHEET_15
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 964
+        width: 521
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead9c53d69e0cb700800000000000000
+      internalID: 557336494841044398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_ATAQUE_ANIM_SPRITESHEET_16
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 964
+        width: 521
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2064e4ed4faed7b10800000000000000
+      internalID: 1980997748535477762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_ATAQUE_ANIM_SPRITESHEET_17
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 964
+        width: 521
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9abcb298835f5b40800000000000000
+      internalID: 5431151521674607262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_ATAQUE_ANIM_SPRITESHEET_18
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 964
+        width: 521
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181dc3e57311018f0800000000000000
+      internalID: -571938223174135423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SPINAS_ATAQUE_ANIM_SPRITESHEET_0: -1747613765107774367
+      SPINAS_ATAQUE_ANIM_SPRITESHEET_1: 1213816046395646419
+      SPINAS_ATAQUE_ANIM_SPRITESHEET_10: -5622824014485983956
+      SPINAS_ATAQUE_ANIM_SPRITESHEET_11: -8005600494690175495
+      SPINAS_ATAQUE_ANIM_SPRITESHEET_12: 5362809633125006584
+      SPINAS_ATAQUE_ANIM_SPRITESHEET_13: 3759105431416296418
+      SPINAS_ATAQUE_ANIM_SPRITESHEET_14: 8248368658593960917
+      SPINAS_ATAQUE_ANIM_SPRITESHEET_15: 557336494841044398
+      SPINAS_ATAQUE_ANIM_SPRITESHEET_16: 1980997748535477762
+      SPINAS_ATAQUE_ANIM_SPRITESHEET_17: 5431151521674607262
+      SPINAS_ATAQUE_ANIM_SPRITESHEET_18: -571938223174135423
+      SPINAS_ATAQUE_ANIM_SPRITESHEET_2: -926813533772258865
+      SPINAS_ATAQUE_ANIM_SPRITESHEET_3: -6033208293551833462
+      SPINAS_ATAQUE_ANIM_SPRITESHEET_4: -4694484385735633836
+      SPINAS_ATAQUE_ANIM_SPRITESHEET_5: -954500848642845941
+      SPINAS_ATAQUE_ANIM_SPRITESHEET_6: -6861362434545111508
+      SPINAS_ATAQUE_ANIM_SPRITESHEET_7: -7806989737356737323
+      SPINAS_ATAQUE_ANIM_SPRITESHEET_8: 7541441866111659549
+      SPINAS_ATAQUE_ANIM_SPRITESHEET_9: 2583185039413367273
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

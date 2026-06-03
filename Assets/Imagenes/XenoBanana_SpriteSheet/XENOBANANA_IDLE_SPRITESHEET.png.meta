@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: fe1d9478d11f37d4da57ade9a37d14cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2430025828899812271
+    second: XENOBANANA_IDLE_SPRITESHEET_0
+  - first:
+      213: -3296372883213732362
+    second: XENOBANANA_IDLE_SPRITESHEET_1
+  - first:
+      213: -3285890043716565970
+    second: XENOBANANA_IDLE_SPRITESHEET_2
+  - first:
+      213: -4636235190020653482
+    second: XENOBANANA_IDLE_SPRITESHEET_3
+  - first:
+      213: -5069730916201317441
+    second: XENOBANANA_IDLE_SPRITESHEET_4
+  - first:
+      213: -4642657777311926247
+    second: XENOBANANA_IDLE_SPRITESHEET_5
+  - first:
+      213: -8509819307635821911
+    second: XENOBANANA_IDLE_SPRITESHEET_6
+  - first:
+      213: -22751298678215229
+    second: XENOBANANA_IDLE_SPRITESHEET_7
+  - first:
+      213: -4558338716392886416
+    second: XENOBANANA_IDLE_SPRITESHEET_8
+  - first:
+      213: -4421301743919223124
+    second: XENOBANANA_IDLE_SPRITESHEET_9
+  - first:
+      213: -4783563602025955138
+    second: XENOBANANA_IDLE_SPRITESHEET_10
+  - first:
+      213: 3301988243304355819
+    second: XENOBANANA_IDLE_SPRITESHEET_11
+  - first:
+      213: 5979316268261328404
+    second: XENOBANANA_IDLE_SPRITESHEET_12
+  - first:
+      213: 1011039270433268742
+    second: XENOBANANA_IDLE_SPRITESHEET_13
+  - first:
+      213: -7577517619334245183
+    second: XENOBANANA_IDLE_SPRITESHEET_14
+  - first:
+      213: 7355636044641775300
+    second: XENOBANANA_IDLE_SPRITESHEET_15
+  - first:
+      213: 1446884568812028244
+    second: XENOBANANA_IDLE_SPRITESHEET_16
+  - first:
+      213: 4040473960150428712
+    second: XENOBANANA_IDLE_SPRITESHEET_17
+  - first:
+      213: 2873073429959160597
+    second: XENOBANANA_IDLE_SPRITESHEET_18
+  - first:
+      213: 7840406114634367271
+    second: XENOBANANA_IDLE_SPRITESHEET_19
+  - first:
+      213: 8107764835092876242
+    second: XENOBANANA_IDLE_SPRITESHEET_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: XENOBANANA_IDLE_SPRITESHEET_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1583
+        width: 628
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3f896dd9f29b120800000000000000
+      internalID: 2430025828899812271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_IDLE_SPRITESHEET_1
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1583
+        width: 628
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5b0d0e35ee042d0800000000000000
+      internalID: -3296372883213732362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_IDLE_SPRITESHEET_2
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1583
+        width: 628
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2408452a6c2662d0800000000000000
+      internalID: -3285890043716565970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_IDLE_SPRITESHEET_3
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1583
+        width: 628
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e37a398a8c8afb0800000000000000
+      internalID: -4636235190020653482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_IDLE_SPRITESHEET_4
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 1583
+        width: 628
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb3101a792b4a9b0800000000000000
+      internalID: -5069730916201317441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_IDLE_SPRITESHEET_5
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 1583
+        width: 628
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9183e917957f19fb0800000000000000
+      internalID: -4642657777311926247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_IDLE_SPRITESHEET_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1118
+        width: 628
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a23b993d6c07e980800000000000000
+      internalID: -8509819307635821911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_IDLE_SPRITESHEET_7
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1118
+        width: 628
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd2b1c70db2faff0800000000000000
+      internalID: -22751298678215229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_IDLE_SPRITESHEET_8
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1118
+        width: 628
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fed7ba6178db0c0800000000000000
+      internalID: -4558338716392886416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_IDLE_SPRITESHEET_9
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1118
+        width: 628
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae21ec2d7164a2c0800000000000000
+      internalID: -4421301743919223124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_IDLE_SPRITESHEET_10
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 1118
+        width: 628
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb041c49f3e5d9db0800000000000000
+      internalID: -4783563602025955138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_IDLE_SPRITESHEET_11
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 1118
+        width: 628
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be71ca600d403dd20800000000000000
+      internalID: 3301988243304355819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_IDLE_SPRITESHEET_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 653
+        width: 628
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4164e69577ccaf250800000000000000
+      internalID: 5979316268261328404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_IDLE_SPRITESHEET_13
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 653
+        width: 628
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60425281cdee70e00800000000000000
+      internalID: 1011039270433268742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_IDLE_SPRITESHEET_14
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 653
+        width: 628
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c491546fdf37d690800000000000000
+      internalID: -7577517619334245183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_IDLE_SPRITESHEET_15
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 653
+        width: 628
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ceaee1c208741660800000000000000
+      internalID: 7355636044641775300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_IDLE_SPRITESHEET_16
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 653
+        width: 628
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451090379dd541410800000000000000
+      internalID: 1446884568812028244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_IDLE_SPRITESHEET_17
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 653
+        width: 628
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c6bfec8a5a21830800000000000000
+      internalID: 4040473960150428712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_IDLE_SPRITESHEET_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 628
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5133456ff053fd720800000000000000
+      internalID: 2873073429959160597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_IDLE_SPRITESHEET_19
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 188
+        width: 628
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721059d22d7becc60800000000000000
+      internalID: 7840406114634367271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_IDLE_SPRITESHEET_20
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 188
+        width: 628
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db4d162921948070800000000000000
+      internalID: 8107764835092876242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d71e36d2c526ab44891d5d3d6d653eff
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      XENOBANANA_IDLE_SPRITESHEET_0: 2430025828899812271
+      XENOBANANA_IDLE_SPRITESHEET_1: -3296372883213732362
+      XENOBANANA_IDLE_SPRITESHEET_10: -4783563602025955138
+      XENOBANANA_IDLE_SPRITESHEET_11: 3301988243304355819
+      XENOBANANA_IDLE_SPRITESHEET_12: 5979316268261328404
+      XENOBANANA_IDLE_SPRITESHEET_13: 1011039270433268742
+      XENOBANANA_IDLE_SPRITESHEET_14: -7577517619334245183
+      XENOBANANA_IDLE_SPRITESHEET_15: 7355636044641775300
+      XENOBANANA_IDLE_SPRITESHEET_16: 1446884568812028244
+      XENOBANANA_IDLE_SPRITESHEET_17: 4040473960150428712
+      XENOBANANA_IDLE_SPRITESHEET_18: 2873073429959160597
+      XENOBANANA_IDLE_SPRITESHEET_19: 7840406114634367271
+      XENOBANANA_IDLE_SPRITESHEET_2: -3285890043716565970
+      XENOBANANA_IDLE_SPRITESHEET_20: 8107764835092876242
+      XENOBANANA_IDLE_SPRITESHEET_3: -4636235190020653482
+      XENOBANANA_IDLE_SPRITESHEET_4: -5069730916201317441
+      XENOBANANA_IDLE_SPRITESHEET_5: -4642657777311926247
+      XENOBANANA_IDLE_SPRITESHEET_6: -8509819307635821911
+      XENOBANANA_IDLE_SPRITESHEET_7: -22751298678215229
+      XENOBANANA_IDLE_SPRITESHEET_8: -4558338716392886416
+      XENOBANANA_IDLE_SPRITESHEET_9: -4421301743919223124
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

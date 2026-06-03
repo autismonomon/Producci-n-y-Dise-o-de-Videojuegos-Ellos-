@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 4783c5cdfb7e690428bdac147b7f9754
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6211914110396299892
+    second: SPINAS_CORRER_RUN_SPRITESHEET_0
+  - first:
+      213: 2741475716364405047
+    second: SPINAS_CORRER_RUN_SPRITESHEET_1
+  - first:
+      213: 5380462384670598439
+    second: SPINAS_CORRER_RUN_SPRITESHEET_2
+  - first:
+      213: -1566335912432973258
+    second: SPINAS_CORRER_RUN_SPRITESHEET_3
+  - first:
+      213: -2202722927410912579
+    second: SPINAS_CORRER_RUN_SPRITESHEET_4
+  - first:
+      213: 9178194070228548574
+    second: SPINAS_CORRER_RUN_SPRITESHEET_5
+  - first:
+      213: -8940518149089628080
+    second: SPINAS_CORRER_RUN_SPRITESHEET_6
+  - first:
+      213: 1647853270520941242
+    second: SPINAS_CORRER_RUN_SPRITESHEET_7
+  - first:
+      213: 1920344335613442075
+    second: SPINAS_CORRER_RUN_SPRITESHEET_8
+  - first:
+      213: -9188988594260582659
+    second: SPINAS_CORRER_RUN_SPRITESHEET_9
+  - first:
+      213: -7776770989867644245
+    second: SPINAS_CORRER_RUN_SPRITESHEET_10
+  - first:
+      213: -131924324385829930
+    second: SPINAS_CORRER_RUN_SPRITESHEET_11
+  - first:
+      213: -359362709654793692
+    second: SPINAS_CORRER_RUN_SPRITESHEET_12
+  - first:
+      213: -943472828551700012
+    second: SPINAS_CORRER_RUN_SPRITESHEET_13
+  - first:
+      213: -817695550357043340
+    second: SPINAS_CORRER_RUN_SPRITESHEET_14
+  - first:
+      213: -5980415846982035853
+    second: SPINAS_CORRER_RUN_SPRITESHEET_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPINAS_CORRER_RUN_SPRITESHEET_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1677
+        width: 576
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85879a5709dac9a0800000000000000
+      internalID: -6211914110396299892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_CORRER_RUN_SPRITESHEET_1
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1696
+        width: 569
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739824a93adab0620800000000000000
+      internalID: 2741475716364405047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_CORRER_RUN_SPRITESHEET_2
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1705
+        width: 561
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72564ad280e3baa40800000000000000
+      internalID: 5380462384670598439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_CORRER_RUN_SPRITESHEET_3
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1704
+        width: 551
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ace7459c1434ae0800000000000000
+      internalID: -1566335912432973258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_CORRER_RUN_SPRITESHEET_4
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 1703
+        width: 526
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db260150b2b5e61e0800000000000000
+      internalID: -2202722927410912579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_CORRER_RUN_SPRITESHEET_5
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 1704
+        width: 497
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbb193f0ee7f5f70800000000000000
+      internalID: 9178194070228548574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_CORRER_RUN_SPRITESHEET_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1331
+        width: 493
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050749fbc16ece380800000000000000
+      internalID: -8940518149089628080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_CORRER_RUN_SPRITESHEET_7
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1330
+        width: 502
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abacd5f91d95ed610800000000000000
+      internalID: 1647853270520941242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_CORRER_RUN_SPRITESHEET_8
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 1329
+        width: 505
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b183ca2bffe66aa10800000000000000
+      internalID: 1920344335613442075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_CORRER_RUN_SPRITESHEET_9
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1321
+        width: 502
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe5bf11f872a7080800000000000000
+      internalID: -9188988594260582659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_CORRER_RUN_SPRITESHEET_10
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 1319
+        width: 500
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa4061ecfb531490800000000000000
+      internalID: -7776770989867644245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_CORRER_RUN_SPRITESHEET_11
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 1331
+        width: 501
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbcfb3a68f4b2ef0800000000000000
+      internalID: -131924324385829930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_CORRER_RUN_SPRITESHEET_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 974
+        width: 502
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42211810589430bf0800000000000000
+      internalID: -359362709654793692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_CORRER_RUN_SPRITESHEET_13
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 984
+        width: 504
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d161fe067c18e2f0800000000000000
+      internalID: -943472828551700012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_CORRER_RUN_SPRITESHEET_14
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 964
+        width: 539
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4770d82ba36f6a4f0800000000000000
+      internalID: -817695550357043340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_CORRER_RUN_SPRITESHEET_15
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 964
+        width: 539
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376d487097b410da0800000000000000
+      internalID: -5980415846982035853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SPINAS_CORRER_RUN_SPRITESHEET_0: -6211914110396299892
+      SPINAS_CORRER_RUN_SPRITESHEET_1: 2741475716364405047
+      SPINAS_CORRER_RUN_SPRITESHEET_10: -7776770989867644245
+      SPINAS_CORRER_RUN_SPRITESHEET_11: -131924324385829930
+      SPINAS_CORRER_RUN_SPRITESHEET_12: -359362709654793692
+      SPINAS_CORRER_RUN_SPRITESHEET_13: -943472828551700012
+      SPINAS_CORRER_RUN_SPRITESHEET_14: -817695550357043340
+      SPINAS_CORRER_RUN_SPRITESHEET_15: -5980415846982035853
+      SPINAS_CORRER_RUN_SPRITESHEET_2: 5380462384670598439
+      SPINAS_CORRER_RUN_SPRITESHEET_3: -1566335912432973258
+      SPINAS_CORRER_RUN_SPRITESHEET_4: -2202722927410912579
+      SPINAS_CORRER_RUN_SPRITESHEET_5: 9178194070228548574
+      SPINAS_CORRER_RUN_SPRITESHEET_6: -8940518149089628080
+      SPINAS_CORRER_RUN_SPRITESHEET_7: 1647853270520941242
+      SPINAS_CORRER_RUN_SPRITESHEET_8: 1920344335613442075
+      SPINAS_CORRER_RUN_SPRITESHEET_9: -9188988594260582659
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

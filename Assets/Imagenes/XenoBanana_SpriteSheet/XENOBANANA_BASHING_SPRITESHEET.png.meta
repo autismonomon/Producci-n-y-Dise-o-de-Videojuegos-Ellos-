@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 6d91f7e6a94e5624bba1b3fa76b06f6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4390416231558927590
+    second: XENOBANANA_BASHING_SPRITESHEET_0
+  - first:
+      213: 1217987126587351958
+    second: XENOBANANA_BASHING_SPRITESHEET_1
+  - first:
+      213: -1144363888375887010
+    second: XENOBANANA_BASHING_SPRITESHEET_2
+  - first:
+      213: 213694413746331299
+    second: XENOBANANA_BASHING_SPRITESHEET_3
+  - first:
+      213: -252836073022184092
+    second: XENOBANANA_BASHING_SPRITESHEET_4
+  - first:
+      213: 1299160406559542977
+    second: XENOBANANA_BASHING_SPRITESHEET_5
+  - first:
+      213: -1256228482914637093
+    second: XENOBANANA_BASHING_SPRITESHEET_6
+  - first:
+      213: -2183352926845499570
+    second: XENOBANANA_BASHING_SPRITESHEET_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: XENOBANANA_BASHING_SPRITESHEET_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1565
+        width: 826
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b22d5e2bb1213c0800000000000000
+      internalID: -4390416231558927590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_BASHING_SPRITESHEET_1
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1565
+        width: 826
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693ec35a6d827e010800000000000000
+      internalID: 1217987126587351958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_BASHING_SPRITESHEET_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 826
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b029b4b176e10f0800000000000000
+      internalID: -1144363888375887010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_BASHING_SPRITESHEET_3
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1082
+        width: 826
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aed5d5efe137f200800000000000000
+      internalID: 213694413746331299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_BASHING_SPRITESHEET_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 599
+        width: 826
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465ab116eeebd7cf0800000000000000
+      internalID: -252836073022184092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_BASHING_SPRITESHEET_5
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 599
+        width: 826
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cecb3ba18b870210800000000000000
+      internalID: 1299160406559542977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_BASHING_SPRITESHEET_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 826
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda252fb9daf09ee0800000000000000
+      internalID: -1256228482914637093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENOBANANA_BASHING_SPRITESHEET_7
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 116
+        width: 826
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e478018b41c23b1e0800000000000000
+      internalID: -2183352926845499570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2a11c1be93119644dbb8a99a7f5ce183
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      XENOBANANA_BASHING_SPRITESHEET_0: -4390416231558927590
+      XENOBANANA_BASHING_SPRITESHEET_1: 1217987126587351958
+      XENOBANANA_BASHING_SPRITESHEET_2: -1144363888375887010
+      XENOBANANA_BASHING_SPRITESHEET_3: 213694413746331299
+      XENOBANANA_BASHING_SPRITESHEET_4: -252836073022184092
+      XENOBANANA_BASHING_SPRITESHEET_5: 1299160406559542977
+      XENOBANANA_BASHING_SPRITESHEET_6: -1256228482914637093
+      XENOBANANA_BASHING_SPRITESHEET_7: -2183352926845499570
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

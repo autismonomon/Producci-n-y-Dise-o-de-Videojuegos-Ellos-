@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 11cfc34b9a54eba4d8b389cd67a04194
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 715295290440300740
+    second: SPINAS_IDLE_SPRITESHEET_0
+  - first:
+      213: 7067470496196793710
+    second: SPINAS_IDLE_SPRITESHEET_1
+  - first:
+      213: 5901511190572939334
+    second: SPINAS_IDLE_SPRITESHEET_2
+  - first:
+      213: -3849905062998996606
+    second: SPINAS_IDLE_SPRITESHEET_3
+  - first:
+      213: -7154645840812321700
+    second: SPINAS_IDLE_SPRITESHEET_4
+  - first:
+      213: 9194330655051424176
+    second: SPINAS_IDLE_SPRITESHEET_5
+  - first:
+      213: 1883671719159171658
+    second: SPINAS_IDLE_SPRITESHEET_6
+  - first:
+      213: -5268217518983351965
+    second: SPINAS_IDLE_SPRITESHEET_7
+  - first:
+      213: 8163573168987826866
+    second: SPINAS_IDLE_SPRITESHEET_8
+  - first:
+      213: -1114052705972991926
+    second: SPINAS_IDLE_SPRITESHEET_9
+  - first:
+      213: -3154000269805282524
+    second: SPINAS_IDLE_SPRITESHEET_10
+  - first:
+      213: -2457875893047830754
+    second: SPINAS_IDLE_SPRITESHEET_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPINAS_IDLE_SPRITESHEET_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1693
+        width: 534
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c83430e64d3de900800000000000000
+      internalID: 715295290440300740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_IDLE_SPRITESHEET_1
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1692
+        width: 534
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e651d52a8f2b41260800000000000000
+      internalID: 7067470496196793710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_IDLE_SPRITESHEET_2
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1692
+        width: 533
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648b718092166e150800000000000000
+      internalID: 5901511190572939334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_IDLE_SPRITESHEET_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1334
+        width: 533
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28987fc2eb3629ac0800000000000000
+      internalID: -3849905062998996606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_IDLE_SPRITESHEET_4
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1333
+        width: 533
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54d7a4c38795bc90800000000000000
+      internalID: -7154645840812321700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_IDLE_SPRITESHEET_5
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 977
+        width: 533
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b123d16403d89f70800000000000000
+      internalID: 9194330655051424176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_IDLE_SPRITESHEET_6
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1333
+        width: 532
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a8eedc275242a10800000000000000
+      internalID: 1883671719159171658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_IDLE_SPRITESHEET_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 621
+        width: 533
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361f185241883e6b0800000000000000
+      internalID: -5268217518983351965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_IDLE_SPRITESHEET_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 976
+        width: 532
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baed637b86da4170800000000000000
+      internalID: 8163573168987826866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_IDLE_SPRITESHEET_9
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 622
+        width: 534
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48ca6767f61a80f0800000000000000
+      internalID: -1114052705972991926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_IDLE_SPRITESHEET_10
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 977
+        width: 533
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b15c8177dba34d0800000000000000
+      internalID: -3154000269805282524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_IDLE_SPRITESHEET_11
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 622
+        width: 535
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1753ecc5eed3edd0800000000000000
+      internalID: -2457875893047830754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SPINAS_IDLE_SPRITESHEET_0: 715295290440300740
+      SPINAS_IDLE_SPRITESHEET_1: 7067470496196793710
+      SPINAS_IDLE_SPRITESHEET_10: -3154000269805282524
+      SPINAS_IDLE_SPRITESHEET_11: -2457875893047830754
+      SPINAS_IDLE_SPRITESHEET_2: 5901511190572939334
+      SPINAS_IDLE_SPRITESHEET_3: -3849905062998996606
+      SPINAS_IDLE_SPRITESHEET_4: -7154645840812321700
+      SPINAS_IDLE_SPRITESHEET_5: 9194330655051424176
+      SPINAS_IDLE_SPRITESHEET_6: 1883671719159171658
+      SPINAS_IDLE_SPRITESHEET_7: -5268217518983351965
+      SPINAS_IDLE_SPRITESHEET_8: 8163573168987826866
+      SPINAS_IDLE_SPRITESHEET_9: -1114052705972991926
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

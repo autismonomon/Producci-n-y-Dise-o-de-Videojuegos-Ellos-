@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 40ef96b3a9d377442a6bd959f6942f5c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3225075154623957226
+    second: SPINAS_MUERTE_SPRITESHEET_0
+  - first:
+      213: 9184555358078350434
+    second: SPINAS_MUERTE_SPRITESHEET_1
+  - first:
+      213: 5986932608944870147
+    second: SPINAS_MUERTE_SPRITESHEET_2
+  - first:
+      213: -3973086256484577230
+    second: SPINAS_MUERTE_SPRITESHEET_3
+  - first:
+      213: 6887327870731206155
+    second: SPINAS_MUERTE_SPRITESHEET_4
+  - first:
+      213: 469575375185521696
+    second: SPINAS_MUERTE_SPRITESHEET_5
+  - first:
+      213: -7792063009073221018
+    second: SPINAS_MUERTE_SPRITESHEET_6
+  - first:
+      213: 2174730720647829852
+    second: SPINAS_MUERTE_SPRITESHEET_7
+  - first:
+      213: -2470584048547560852
+    second: SPINAS_MUERTE_SPRITESHEET_8
+  - first:
+      213: 2375252501470370366
+    second: SPINAS_MUERTE_SPRITESHEET_9
+  - first:
+      213: -8478210672459483504
+    second: SPINAS_MUERTE_SPRITESHEET_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPINAS_MUERTE_SPRITESHEET_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1633
+        width: 535
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61773baeb3b3e33d0800000000000000
+      internalID: -3225075154623957226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_MUERTE_SPRITESHEET_1
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1663
+        width: 560
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264bb22bf68167f70800000000000000
+      internalID: 9184555358078350434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_MUERTE_SPRITESHEET_2
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1663
+        width: 579
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3039c5adc7bd51350800000000000000
+      internalID: 5986932608944870147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_MUERTE_SPRITESHEET_3
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 1658
+        width: 593
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230104c9913ccd8c0800000000000000
+      internalID: -3973086256484577230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_MUERTE_SPRITESHEET_4
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 1665
+        width: 620
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0eb4923534b49f50800000000000000
+      internalID: 6887327870731206155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_MUERTE_SPRITESHEET_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1275
+        width: 651
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c2439d054448600800000000000000
+      internalID: 469575375185521696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_MUERTE_SPRITESHEET_6
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1273
+        width: 654
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662bab43af70dd390800000000000000
+      internalID: -7792063009073221018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_MUERTE_SPRITESHEET_7
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1269
+        width: 654
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59d75671123e2e10800000000000000
+      internalID: 2174730720647829852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_MUERTE_SPRITESHEET_8
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 1266
+        width: 654
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c628396c5e8b6bdd0800000000000000
+      internalID: -2470584048547560852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_MUERTE_SPRITESHEET_9
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 1264
+        width: 668
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3adff1c09796f020800000000000000
+      internalID: 2375252501470370366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_MUERTE_SPRITESHEET_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 861
+        width: 668
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09670291058575a80800000000000000
+      internalID: -8478210672459483504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SPINAS_MUERTE_SPRITESHEET_0: -3225075154623957226
+      SPINAS_MUERTE_SPRITESHEET_1: 9184555358078350434
+      SPINAS_MUERTE_SPRITESHEET_10: -8478210672459483504
+      SPINAS_MUERTE_SPRITESHEET_2: 5986932608944870147
+      SPINAS_MUERTE_SPRITESHEET_3: -3973086256484577230
+      SPINAS_MUERTE_SPRITESHEET_4: 6887327870731206155
+      SPINAS_MUERTE_SPRITESHEET_5: 469575375185521696
+      SPINAS_MUERTE_SPRITESHEET_6: -7792063009073221018
+      SPINAS_MUERTE_SPRITESHEET_7: 2174730720647829852
+      SPINAS_MUERTE_SPRITESHEET_8: -2470584048547560852
+      SPINAS_MUERTE_SPRITESHEET_9: 2375252501470370366
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
