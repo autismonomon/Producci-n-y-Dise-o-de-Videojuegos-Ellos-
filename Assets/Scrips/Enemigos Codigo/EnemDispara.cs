@@ -8,6 +8,7 @@ public class EnemDispara : Enemigos
     [SerializeField]
     private float _velDisparo;
     private float _contador;
+    private bool muerto;
 
     [Header("GameObject de disparo")]
     [SerializeField]
@@ -25,6 +26,7 @@ public class EnemDispara : Enemigos
         _meTrans = GetComponent<Transform>();
         _animator = GetComponentInChildren<Animator>();
         _vidaActual = _vidaMax;
+        muerto = false;
     }
 
     private void Update()
@@ -49,7 +51,7 @@ public class EnemDispara : Enemigos
         {
             _animator.SetBool("Atacar", false);
             _animator.SetBool("Correr", false);
-            if (_dirBala.magnitude <= _rangoAccion) { Correr(); }
+            if (_dirBala.magnitude <= _rangoAccion && muerto == false) { Correr(); }
             else if (_dirBala.magnitude <= _rangoVision) { Disparo(); }
         }
     }
@@ -66,7 +68,7 @@ public class EnemDispara : Enemigos
     private void Disparo()
     {
         _rb.linearVelocity = Vector2.zero;
-        if (_contador >= _velDisparo)
+        if (_contador >= _velDisparo && muerto == false)
         {
             _animator.SetBool("Atacar", true);
             _animator.SetBool("Correr", false);
@@ -92,6 +94,7 @@ public class EnemDispara : Enemigos
         
         if (_vidaActual <= 0)
         {
+            muerto = true;
             Muerto();
         }
     }
@@ -106,6 +109,7 @@ public class EnemDispara : Enemigos
     {
         yield return new WaitForSeconds(1);
         _animator.GetComponent<SpriteRenderer>().DOFade(0, 1).OnComplete(() => Destroy(gameObject));
+
         DOTween.Kill(gameObject);
         //Destroy(gameObject);
         //gameObject.SetActive(false);
