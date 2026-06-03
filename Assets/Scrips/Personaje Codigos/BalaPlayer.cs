@@ -20,10 +20,15 @@ public class BalaPlayer : Balas
     {
         if (collision.gameObject.layer == 9)
         {
+            SoundManager.instance.PlaySFX(SoundManager.instance.golpearEnemigo);
             collision.GetComponent<Entity>().DañoRecivido(_daño);
             Destroy(gameObject);
         }
-        if(collision.gameObject.layer == 11) { Destroy(gameObject); }
+        if(collision.gameObject.layer == 11) 
+        {
+            SoundManager.instance.PlaySFX(SoundManager.instance.golpearObjeto);
+            Destroy(gameObject); 
+        }
     }
 
     protected override void OnBecameVisible()
