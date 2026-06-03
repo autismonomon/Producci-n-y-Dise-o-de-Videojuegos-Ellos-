@@ -109,6 +109,7 @@ public class EnemDispara : Enemigos
     {
         yield return new WaitForSeconds(1);
         _animator.GetComponent<SpriteRenderer>().DOFade(0, 1).OnComplete(() => Destroy(gameObject));
+
         DOTween.Kill(gameObject);
         //Destroy(gameObject);
         //gameObject.SetActive(false);
