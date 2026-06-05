@@ -91,7 +91,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -158,9 +158,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1692
-        width: 532
-        height: 356
+        y: 1687
+        width: 534
+        height: 361
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,10 +179,10 @@ TextureImporter:
       name: SPINAS_ATAQUE_ANIM_SPRITESHEET_1
       rect:
         serializedVersion: 2
-        x: 533
-        y: 1692
-        width: 533
-        height: 356
+        x: 534
+        y: 1687
+        width: 534
+        height: 361
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -201,10 +201,10 @@ TextureImporter:
       name: SPINAS_ATAQUE_ANIM_SPRITESHEET_2
       rect:
         serializedVersion: 2
-        x: 1075
-        y: 1688
-        width: 527
-        height: 357
+        x: 1068
+        y: 1687
+        width: 534
+        height: 361
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,10 +223,10 @@ TextureImporter:
       name: SPINAS_ATAQUE_ANIM_SPRITESHEET_3
       rect:
         serializedVersion: 2
-        x: 1611
+        x: 1602
         y: 1687
-        width: 526
-        height: 356
+        width: 534
+        height: 361
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -245,10 +245,10 @@ TextureImporter:
       name: SPINAS_ATAQUE_ANIM_SPRITESHEET_4
       rect:
         serializedVersion: 2
-        x: 2147
+        x: 2136
         y: 1687
-        width: 524
-        height: 354
+        width: 534
+        height: 361
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -267,10 +267,10 @@ TextureImporter:
       name: SPINAS_ATAQUE_ANIM_SPRITESHEET_5
       rect:
         serializedVersion: 2
-        x: 2683
-        y: 1686
-        width: 522
-        height: 350
+        x: 2670
+        y: 1687
+        width: 534
+        height: 361
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -289,10 +289,10 @@ TextureImporter:
       name: SPINAS_ATAQUE_ANIM_SPRITESHEET_6
       rect:
         serializedVersion: 2
-        x: 3218
-        y: 1686
-        width: 521
-        height: 350
+        x: 3204
+        y: 1687
+        width: 534
+        height: 361
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -311,10 +311,10 @@ TextureImporter:
       name: SPINAS_ATAQUE_ANIM_SPRITESHEET_7
       rect:
         serializedVersion: 2
-        x: 14
-        y: 1325
-        width: 521
-        height: 352
+        x: 0
+        y: 1326
+        width: 534
+        height: 361
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -333,10 +333,10 @@ TextureImporter:
       name: SPINAS_ATAQUE_ANIM_SPRITESHEET_8
       rect:
         serializedVersion: 2
-        x: 548
-        y: 1325
-        width: 521
-        height: 353
+        x: 534
+        y: 1326
+        width: 534
+        height: 361
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -355,10 +355,10 @@ TextureImporter:
       name: SPINAS_ATAQUE_ANIM_SPRITESHEET_9
       rect:
         serializedVersion: 2
-        x: 1082
-        y: 1325
-        width: 521
-        height: 353
+        x: 1068
+        y: 1326
+        width: 534
+        height: 361
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -377,10 +377,10 @@ TextureImporter:
       name: SPINAS_ATAQUE_ANIM_SPRITESHEET_10
       rect:
         serializedVersion: 2
-        x: 1616
-        y: 1325
-        width: 521
-        height: 352
+        x: 1602
+        y: 1326
+        width: 534
+        height: 361
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -399,10 +399,10 @@ TextureImporter:
       name: SPINAS_ATAQUE_ANIM_SPRITESHEET_11
       rect:
         serializedVersion: 2
-        x: 2135
-        y: 970
-        width: 533
-        height: 357
+        x: 2136
+        y: 1326
+        width: 534
+        height: 361
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -421,10 +421,10 @@ TextureImporter:
       name: SPINAS_ATAQUE_ANIM_SPRITESHEET_12
       rect:
         serializedVersion: 2
-        x: 2150
-        y: 1325
-        width: 521
-        height: 351
+        x: 2670
+        y: 1326
+        width: 534
+        height: 361
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -443,10 +443,10 @@ TextureImporter:
       name: SPINAS_ATAQUE_ANIM_SPRITESHEET_13
       rect:
         serializedVersion: 2
-        x: 2684
-        y: 1325
-        width: 521
-        height: 351
+        x: 3204
+        y: 1326
+        width: 534
+        height: 361
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -465,10 +465,10 @@ TextureImporter:
       name: SPINAS_ATAQUE_ANIM_SPRITESHEET_14
       rect:
         serializedVersion: 2
-        x: 3218
-        y: 1325
-        width: 521
-        height: 350
+        x: 0
+        y: 965
+        width: 534
+        height: 361
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -487,10 +487,10 @@ TextureImporter:
       name: SPINAS_ATAQUE_ANIM_SPRITESHEET_15
       rect:
         serializedVersion: 2
-        x: 14
-        y: 964
-        width: 521
-        height: 350
+        x: 534
+        y: 965
+        width: 534
+        height: 361
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -509,10 +509,10 @@ TextureImporter:
       name: SPINAS_ATAQUE_ANIM_SPRITESHEET_16
       rect:
         serializedVersion: 2
-        x: 548
-        y: 964
-        width: 521
-        height: 350
+        x: 1068
+        y: 965
+        width: 534
+        height: 361
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -531,10 +531,10 @@ TextureImporter:
       name: SPINAS_ATAQUE_ANIM_SPRITESHEET_17
       rect:
         serializedVersion: 2
-        x: 1082
-        y: 964
-        width: 521
-        height: 349
+        x: 1602
+        y: 965
+        width: 534
+        height: 361
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -553,10 +553,10 @@ TextureImporter:
       name: SPINAS_ATAQUE_ANIM_SPRITESHEET_18
       rect:
         serializedVersion: 2
-        x: 1616
-        y: 964
-        width: 521
-        height: 349
+        x: 2136
+        y: 965
+        width: 534
+        height: 361
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -575,7 +575,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: f7961b5532f268b439b250e62741db4f
     internalID: 0
     vertices: []
     indices: 

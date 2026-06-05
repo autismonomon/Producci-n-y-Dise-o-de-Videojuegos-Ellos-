@@ -70,7 +70,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -137,9 +137,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1693
+        y: 1691
         width: 534
-        height: 355
+        height: 357
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -159,9 +159,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 534
-        y: 1692
+        y: 1691
         width: 534
-        height: 356
+        height: 357
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -180,10 +180,10 @@ TextureImporter:
       name: SPINAS_IDLE_SPRITESHEET_2
       rect:
         serializedVersion: 2
-        x: 1069
-        y: 1692
-        width: 533
-        height: 356
+        x: 1068
+        y: 1691
+        width: 534
+        height: 357
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,9 +202,9 @@ TextureImporter:
       name: SPINAS_IDLE_SPRITESHEET_3
       rect:
         serializedVersion: 2
-        x: 2
+        x: 0
         y: 1334
-        width: 533
+        width: 534
         height: 357
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -224,9 +224,9 @@ TextureImporter:
       name: SPINAS_IDLE_SPRITESHEET_4
       rect:
         serializedVersion: 2
-        x: 536
-        y: 1333
-        width: 533
+        x: 534
+        y: 1334
+        width: 534
         height: 357
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -246,9 +246,9 @@ TextureImporter:
       name: SPINAS_IDLE_SPRITESHEET_5
       rect:
         serializedVersion: 2
-        x: 1069
-        y: 977
-        width: 533
+        x: 1068
+        y: 1334
+        width: 534
         height: 357
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -268,9 +268,9 @@ TextureImporter:
       name: SPINAS_IDLE_SPRITESHEET_6
       rect:
         serializedVersion: 2
-        x: 1071
-        y: 1333
-        width: 532
+        x: 0
+        y: 977
+        width: 534
         height: 357
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -290,10 +290,10 @@ TextureImporter:
       name: SPINAS_IDLE_SPRITESHEET_7
       rect:
         serializedVersion: 2
-        x: 1
-        y: 621
-        width: 533
-        height: 356
+        x: 534
+        y: 977
+        width: 534
+        height: 357
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -312,9 +312,9 @@ TextureImporter:
       name: SPINAS_IDLE_SPRITESHEET_8
       rect:
         serializedVersion: 2
-        x: 3
-        y: 976
-        width: 532
+        x: 1068
+        y: 977
+        width: 534
         height: 357
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -334,10 +334,10 @@ TextureImporter:
       name: SPINAS_IDLE_SPRITESHEET_9
       rect:
         serializedVersion: 2
-        x: 534
-        y: 622
+        x: 0
+        y: 620
         width: 534
-        height: 356
+        height: 357
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -356,10 +356,10 @@ TextureImporter:
       name: SPINAS_IDLE_SPRITESHEET_10
       rect:
         serializedVersion: 2
-        x: 536
-        y: 977
-        width: 533
-        height: 356
+        x: 534
+        y: 620
+        width: 534
+        height: 357
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -378,10 +378,10 @@ TextureImporter:
       name: SPINAS_IDLE_SPRITESHEET_11
       rect:
         serializedVersion: 2
-        x: 1067
-        y: 622
-        width: 535
-        height: 356
+        x: 1068
+        y: 620
+        width: 534
+        height: 357
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -400,7 +400,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ccd702940ededac418664fc75a62ed9b
     internalID: 0
     vertices: []
     indices: 

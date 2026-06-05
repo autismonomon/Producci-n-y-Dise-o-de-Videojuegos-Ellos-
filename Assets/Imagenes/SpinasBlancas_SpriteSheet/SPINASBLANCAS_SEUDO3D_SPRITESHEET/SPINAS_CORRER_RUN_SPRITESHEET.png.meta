@@ -82,7 +82,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -148,10 +148,10 @@ TextureImporter:
       name: SPINAS_CORRER_RUN_SPRITESHEET_0
       rect:
         serializedVersion: 2
-        x: 13
-        y: 1677
-        width: 576
-        height: 371
+        x: 0
+        y: 1679
+        width: 605
+        height: 369
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -170,10 +170,10 @@ TextureImporter:
       name: SPINAS_CORRER_RUN_SPRITESHEET_1
       rect:
         serializedVersion: 2
-        x: 619
-        y: 1696
-        width: 569
-        height: 352
+        x: 605
+        y: 1679
+        width: 605
+        height: 369
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -192,10 +192,10 @@ TextureImporter:
       name: SPINAS_CORRER_RUN_SPRITESHEET_2
       rect:
         serializedVersion: 2
-        x: 1229
-        y: 1705
-        width: 561
-        height: 342
+        x: 1210
+        y: 1679
+        width: 605
+        height: 369
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -214,10 +214,10 @@ TextureImporter:
       name: SPINAS_CORRER_RUN_SPRITESHEET_3
       rect:
         serializedVersion: 2
-        x: 1840
-        y: 1704
-        width: 551
-        height: 342
+        x: 1815
+        y: 1679
+        width: 605
+        height: 369
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,10 +236,10 @@ TextureImporter:
       name: SPINAS_CORRER_RUN_SPRITESHEET_4
       rect:
         serializedVersion: 2
-        x: 2452
-        y: 1703
-        width: 526
-        height: 342
+        x: 2420
+        y: 1679
+        width: 605
+        height: 369
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -258,10 +258,10 @@ TextureImporter:
       name: SPINAS_CORRER_RUN_SPRITESHEET_5
       rect:
         serializedVersion: 2
-        x: 3064
-        y: 1704
-        width: 497
-        height: 340
+        x: 3025
+        y: 1679
+        width: 605
+        height: 369
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -281,9 +281,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1331
-        width: 493
-        height: 340
+        y: 1310
+        width: 605
+        height: 369
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -302,10 +302,10 @@ TextureImporter:
       name: SPINAS_CORRER_RUN_SPRITESHEET_7
       rect:
         serializedVersion: 2
-        x: 614
-        y: 1330
-        width: 502
-        height: 341
+        x: 605
+        y: 1310
+        width: 605
+        height: 369
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -324,10 +324,10 @@ TextureImporter:
       name: SPINAS_CORRER_RUN_SPRITESHEET_8
       rect:
         serializedVersion: 2
-        x: 1233
-        y: 1329
-        width: 505
-        height: 343
+        x: 1210
+        y: 1310
+        width: 605
+        height: 369
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -346,10 +346,10 @@ TextureImporter:
       name: SPINAS_CORRER_RUN_SPRITESHEET_9
       rect:
         serializedVersion: 2
-        x: 1856
-        y: 1321
-        width: 502
-        height: 352
+        x: 1815
+        y: 1310
+        width: 605
+        height: 369
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -368,10 +368,10 @@ TextureImporter:
       name: SPINAS_CORRER_RUN_SPRITESHEET_10
       rect:
         serializedVersion: 2
-        x: 2472
-        y: 1319
-        width: 500
-        height: 354
+        x: 2420
+        y: 1310
+        width: 605
+        height: 369
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -390,10 +390,10 @@ TextureImporter:
       name: SPINAS_CORRER_RUN_SPRITESHEET_11
       rect:
         serializedVersion: 2
-        x: 3084
-        y: 1331
-        width: 501
-        height: 343
+        x: 3025
+        y: 1310
+        width: 605
+        height: 369
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -412,10 +412,10 @@ TextureImporter:
       name: SPINAS_CORRER_RUN_SPRITESHEET_12
       rect:
         serializedVersion: 2
-        x: 18
-        y: 974
-        width: 502
-        height: 330
+        x: 0
+        y: 941
+        width: 605
+        height: 369
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -434,10 +434,10 @@ TextureImporter:
       name: SPINAS_CORRER_RUN_SPRITESHEET_13
       rect:
         serializedVersion: 2
-        x: 626
-        y: 984
-        width: 504
-        height: 320
+        x: 605
+        y: 941
+        width: 605
+        height: 369
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -456,10 +456,10 @@ TextureImporter:
       name: SPINAS_CORRER_RUN_SPRITESHEET_14
       rect:
         serializedVersion: 2
-        x: 1235
-        y: 964
-        width: 539
-        height: 341
+        x: 1210
+        y: 941
+        width: 605
+        height: 369
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -478,10 +478,10 @@ TextureImporter:
       name: SPINAS_CORRER_RUN_SPRITESHEET_15
       rect:
         serializedVersion: 2
-        x: 1848
-        y: 964
-        width: 539
-        height: 341
+        x: 1815
+        y: 941
+        width: 605
+        height: 369
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -500,7 +500,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 06805ffb794f6e444b7f4318360cc671
     internalID: 0
     vertices: []
     indices: 

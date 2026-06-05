@@ -91,7 +91,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -157,10 +157,10 @@ TextureImporter:
       name: SPINAS_CAMINAR_SPRITESHEET_0
       rect:
         serializedVersion: 2
-        x: 15
-        y: 1702
-        width: 529
-        height: 346
+        x: 0
+        y: 1698
+        width: 569
+        height: 350
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,10 +179,10 @@ TextureImporter:
       name: SPINAS_CAMINAR_SPRITESHEET_1
       rect:
         serializedVersion: 2
-        x: 578
-        y: 1706
-        width: 531
-        height: 341
+        x: 569
+        y: 1698
+        width: 569
+        height: 350
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -201,10 +201,10 @@ TextureImporter:
       name: SPINAS_CAMINAR_SPRITESHEET_2
       rect:
         serializedVersion: 2
-        x: 1142
-        y: 1710
-        width: 533
-        height: 336
+        x: 1138
+        y: 1698
+        width: 569
+        height: 350
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,10 +223,10 @@ TextureImporter:
       name: SPINAS_CAMINAR_SPRITESHEET_3
       rect:
         serializedVersion: 2
-        x: 1708
-        y: 1710
-        width: 532
-        height: 334
+        x: 1707
+        y: 1698
+        width: 569
+        height: 350
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -246,9 +246,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2276
-        y: 1713
-        width: 511
-        height: 329
+        y: 1698
+        width: 569
+        height: 350
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -267,10 +267,10 @@ TextureImporter:
       name: SPINAS_CAMINAR_SPRITESHEET_5
       rect:
         serializedVersion: 2
-        x: 2844
-        y: 1704
-        width: 508
-        height: 337
+        x: 2845
+        y: 1698
+        width: 569
+        height: 350
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -289,10 +289,10 @@ TextureImporter:
       name: SPINAS_CAMINAR_SPRITESHEET_6
       rect:
         serializedVersion: 2
-        x: 3413
+        x: 3414
         y: 1698
-        width: 513
-        height: 342
+        width: 569
+        height: 350
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -311,10 +311,10 @@ TextureImporter:
       name: SPINAS_CAMINAR_SPRITESHEET_7
       rect:
         serializedVersion: 2
-        x: 1
-        y: 1347
-        width: 528
-        height: 339
+        x: 0
+        y: 1348
+        width: 569
+        height: 350
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -333,10 +333,10 @@ TextureImporter:
       name: SPINAS_CAMINAR_SPRITESHEET_8
       rect:
         serializedVersion: 2
-        x: 570
-        y: 1350
-        width: 547
-        height: 336
+        x: 569
+        y: 1348
+        width: 569
+        height: 350
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -355,10 +355,10 @@ TextureImporter:
       name: SPINAS_CAMINAR_SPRITESHEET_9
       rect:
         serializedVersion: 2
-        x: 1140
-        y: 1353
-        width: 564
-        height: 332
+        x: 1138
+        y: 1348
+        width: 569
+        height: 350
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -377,10 +377,10 @@ TextureImporter:
       name: SPINAS_CAMINAR_SPRITESHEET_10
       rect:
         serializedVersion: 2
-        x: 1710
-        y: 1350
-        width: 567
-        height: 334
+        x: 1707
+        y: 1348
+        width: 569
+        height: 350
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -399,10 +399,10 @@ TextureImporter:
       name: SPINAS_CAMINAR_SPRITESHEET_11
       rect:
         serializedVersion: 2
-        x: 2280
-        y: 1344
-        width: 561
-        height: 340
+        x: 2276
+        y: 1348
+        width: 569
+        height: 350
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -421,10 +421,10 @@ TextureImporter:
       name: SPINAS_CAMINAR_SPRITESHEET_12
       rect:
         serializedVersion: 2
-        x: 2850
-        y: 1341
-        width: 554
-        height: 344
+        x: 2845
+        y: 1348
+        width: 569
+        height: 350
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -443,10 +443,10 @@ TextureImporter:
       name: SPINAS_CAMINAR_SPRITESHEET_13
       rect:
         serializedVersion: 2
-        x: 3421
-        y: 1341
-        width: 542
-        height: 345
+        x: 3414
+        y: 1348
+        width: 569
+        height: 350
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -465,10 +465,10 @@ TextureImporter:
       name: SPINAS_CAMINAR_SPRITESHEET_14
       rect:
         serializedVersion: 2
-        x: 8
-        y: 990
-        width: 526
-        height: 345
+        x: 0
+        y: 998
+        width: 569
+        height: 350
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -487,10 +487,10 @@ TextureImporter:
       name: SPINAS_CAMINAR_SPRITESHEET_15
       rect:
         serializedVersion: 2
-        x: 578
-        y: 993
-        width: 510
-        height: 344
+        x: 569
+        y: 998
+        width: 569
+        height: 350
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -509,10 +509,10 @@ TextureImporter:
       name: SPINAS_CAMINAR_SPRITESHEET_16
       rect:
         serializedVersion: 2
-        x: 1149
-        y: 997
-        width: 496
-        height: 342
+        x: 1138
+        y: 998
+        width: 569
+        height: 350
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -531,10 +531,10 @@ TextureImporter:
       name: SPINAS_CAMINAR_SPRITESHEET_17
       rect:
         serializedVersion: 2
-        x: 1719
-        y: 1005
-        width: 495
-        height: 335
+        x: 1707
+        y: 998
+        width: 569
+        height: 350
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -553,10 +553,10 @@ TextureImporter:
       name: SPINAS_CAMINAR_SPRITESHEET_18
       rect:
         serializedVersion: 2
-        x: 2290
-        y: 1003
-        width: 500
-        height: 339
+        x: 2276
+        y: 998
+        width: 569
+        height: 350
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -571,11 +571,99 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: SPINAS_CAMINAR_SPRITESHEET_19
+      rect:
+        serializedVersion: 2
+        x: 2845
+        y: 998
+        width: 569
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0361bfd8ac147240b6d94e61abbe909
+      internalID: -430575634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_CAMINAR_SPRITESHEET_20
+      rect:
+        serializedVersion: 2
+        x: 3414
+        y: 998
+        width: 569
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5e276dec3ee2444b2ae492b862f1cd
+      internalID: -821709528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_CAMINAR_SPRITESHEET_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 569
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cb4a4a0a6f95c40a4d38463c3451f4
+      internalID: -869959343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINAS_CAMINAR_SPRITESHEET_22
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 648
+        width: 569
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce459062c73a82a4c999364e1071abe7
+      internalID: 1048106861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: b6a58146ce9c8c94e94642cd74ca33c3
     internalID: 0
     vertices: []
     indices: 
@@ -596,7 +684,11 @@ TextureImporter:
       SPINAS_CAMINAR_SPRITESHEET_16: -3878510622166863082
       SPINAS_CAMINAR_SPRITESHEET_17: -7817176359686864685
       SPINAS_CAMINAR_SPRITESHEET_18: -601645456367939153
+      SPINAS_CAMINAR_SPRITESHEET_19: -430575634
       SPINAS_CAMINAR_SPRITESHEET_2: -8995824990299488710
+      SPINAS_CAMINAR_SPRITESHEET_20: -821709528
+      SPINAS_CAMINAR_SPRITESHEET_21: -869959343
+      SPINAS_CAMINAR_SPRITESHEET_22: 1048106861
       SPINAS_CAMINAR_SPRITESHEET_3: -7835179826834082897
       SPINAS_CAMINAR_SPRITESHEET_4: -2037662604721178485
       SPINAS_CAMINAR_SPRITESHEET_5: 8689162226497902957
