@@ -10,8 +10,9 @@ TagManager:
   - CajasIndestructibles
   - BalaPlayer
   - BalaEspinas
-  - Explocion
   - PrimerEnemigo
+  - Undefined
+  - Explo
   layers:
   - Default
   - TransparentFX

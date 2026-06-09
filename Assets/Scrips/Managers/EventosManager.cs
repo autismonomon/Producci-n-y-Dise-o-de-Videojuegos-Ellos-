@@ -1,6 +1,7 @@
 using NUnit.Framework;
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 
 public class EventosManager : MonoBehaviour
@@ -15,6 +16,8 @@ public class EventosManager : MonoBehaviour
     private List<GameObject> _barreras1;
     [SerializeField]
     private List<GameObject> _barreras2;
+
+    public List<GameObject> enemigosVivos;
     public static EventosManager instance;
 
     private void Awake()
@@ -30,23 +33,8 @@ public class EventosManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (_primerosEnemigos == null)
-        {
-            _primeros = false;
-            for (int i = 0; i < _barreras1.Count; i++)
-            {
-                _barreras1[i].SetActive(false);
-            }
-        }
 
-        if (_segundosEnemigos == null) 
-        {
-            for (int i = 0; i < _barreras1.Count; i++)
-            {
-                _barreras2[i].SetActive(false);
-            }
-
-        }
+       
     }
 
     public void Eventos()
@@ -55,26 +43,47 @@ public class EventosManager : MonoBehaviour
         {
             for (int i = 0; i < _primerosEnemigos.Count; i++)
             {
+                enemigosVivos.Add(_primerosEnemigos[i]);
                 _primerosEnemigos[i].SetActive(true);
                 _barreras1[i].SetActive(true);
                 cantEnemigos++;
             }
-            StartCoroutine(CDParedes());
-
         }
         else
         {
             for (int i = 0; i < _segundosEnemigos.Count; i++)
             {
-                _primerosEnemigos[i].SetActive(true);
+                enemigosVivos.Add(_segundosEnemigos[i]);
+                _segundosEnemigos[i].SetActive(true);
                 
             }
 
             for (int i = 0; i < _barreras2.Count; i++)
             {
-                _barreras1[i].SetActive(true);
+                _barreras2[i].SetActive(true);
             }
-            StartCoroutine(CDParedes());
+        }
+    }
+
+    public void DesaparecenParedes()
+    {
+        if (!enemigosVivos.Any())
+        {
+            if (_primeros)
+            {
+                for (int i = 0; i < _barreras1.Count; i++)
+                {
+                    _barreras1[i].SetActive(false);
+                }
+                _primeros = false;
+            }
+            else
+            {
+                for (int i = 0; i < _barreras1.Count; i++)
+                {
+                    _barreras2[i].SetActive(false);
+                }
+            }
         }
     }
 
@@ -82,12 +91,5 @@ public class EventosManager : MonoBehaviour
     {
         Debug.Log("Entre Aca");
         cantEnemigos -= 1;
-    }
-
-    private IEnumerator CDParedes()
-    {
-        yield return new WaitForSeconds(15);
-        if(_primerosEnemigos != null) { _primerosEnemigos = null; }
-        else { _segundosEnemigos = null; }
     }
 }

@@ -5,6 +5,8 @@ public class Cajas : MonoBehaviour
 {
     [SerializeField]
     private float _vida;
+    [SerializeField] 
+    private float _rango;
     [SerializeField]
     private bool _explosiva = false;
     SpriteRenderer _spriteRenderer;
@@ -29,6 +31,7 @@ public class Cajas : MonoBehaviour
             _vivo = false;
             _spriteRenderer.sprite = null;
             transform.GetChild(0).gameObject.SetActive(true);
+            Explosion.instance.Explo();
             StartCoroutine(Desaparecer());
 
         }
@@ -38,7 +41,8 @@ public class Cajas : MonoBehaviour
     {
         Debug.Log("Entro");
         if (collision.gameObject.layer == 10) { _vida--; }
-        if (collision.gameObject.tag == "Explocion") { _vida = 0; }
+        if (collision.gameObject.CompareTag("BalaEspinas")) { _vida--; }
+
     }
 
     private IEnumerator Desaparecer()
@@ -48,5 +52,7 @@ public class Cajas : MonoBehaviour
         transform.GetChild (0).gameObject.SetActive(false);
         Destroy(gameObject);
     }
+
+   
 
 }
