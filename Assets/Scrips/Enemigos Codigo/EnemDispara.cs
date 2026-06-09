@@ -1,5 +1,6 @@
 using DG.Tweening;
 using System.Collections;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class EnemDispara : Enemigos
@@ -7,8 +8,11 @@ public class EnemDispara : Enemigos
     [Header("Variables")]
     [SerializeField]
     private float _velDisparo;
+    [SerializeField]
+    private float _rangoFrenado;
     private float _contador;
-    private bool muerto;
+    private bool _muerto;
+    private bool _buscar;
 
     [Header("GameObject de disparo")]
     [SerializeField]
@@ -18,7 +22,16 @@ public class EnemDispara : Enemigos
     [SerializeField]
     private LayerMask _personajeLayer;
     private Vector2 _dirBala;
+    private Vector2 _posPlayer;
     private RaycastHit2D _hit;
+
+    public static EnemDispara instance;
+
+    private void Awake()
+    {
+        instance = this;
+    }
+
 
     private void Start()
     {
@@ -26,12 +39,12 @@ public class EnemDispara : Enemigos
         _meTrans = GetComponent<Transform>();
         _animator = GetComponentInChildren<Animator>();
         _vidaActual = _vidaMax;
-        muerto = false;
+        _muerto = false;
+        _buscar = false;
     }
 
     private void Update()
     {
-        
         if(_player.transform.position.x < transform.position.x) { transform.localScale = new Vector3(Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z); }
         else { transform.localScale = new Vector3(-Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z); }
         _dirBala = _player.transform.position - _spownBala.transform.position;
@@ -42,6 +55,8 @@ public class EnemDispara : Enemigos
             Debug.Log("Entre");
             Comportamiento();
         }
+
+        if (_buscar) { Buscar(_posPlayer); }
     }
 
     private void Comportamiento() //Pasar a una FMS para mejorar el comportamiento
@@ -51,7 +66,7 @@ public class EnemDispara : Enemigos
         {
             _animator.SetBool("Atacar", false);
             _animator.SetBool("Correr", false);
-            if (_dirBala.magnitude <= _rangoAccion && muerto == false) { Correr(); }
+            if (_dirBala.magnitude <= _rangoAccion && _muerto == false) { Correr(); }
             else if (_dirBala.magnitude <= _rangoVision) { Disparo(); }
         }
     }
@@ -65,10 +80,33 @@ public class EnemDispara : Enemigos
         _rb.linearVelocity= -dri * _velocidad;
     }
 
+    private void Buscar(Vector2 posPla)
+    {
+        if (_hit.collider != null && _hit.transform.gameObject.layer == 7)
+        {
+            _rb.linearVelocity = Vector2.zero;
+            _buscar = false;
+            Comportamiento();
+        }
+        _animator.SetBool("Atacar", false);
+        _animator.SetBool("Correr", true);
+        var dri = posPla - (Vector2)transform.position;
+        dri = dri.normalized;
+        _rb.linearVelocity = dri * _velocidad;
+        if (Vector2.Distance((Vector2)transform.position, posPla) < _rangoFrenado)
+        {
+            _animator.SetBool("Atacar", false);
+            _animator.SetBool("Correr", false);
+            _buscar = false;
+            _rb.linearVelocity = Vector2.zero;
+        }
+        
+    }
+
     private void Disparo()
     {
         _rb.linearVelocity = Vector2.zero;
-        if (_contador >= _velDisparo && muerto == false)
+        if (_contador >= _velDisparo && _muerto == false)
         {
             _animator.SetBool("Atacar", true);
             _animator.SetBool("Correr", false);
@@ -94,10 +132,13 @@ public class EnemDispara : Enemigos
         
         if (_vidaActual <= 0)
         {
-            muerto = true;
+            _muerto = true;
             Muerto();
         }
+        _buscar = true;
     }
+
+    public void PosPlayer(Vector2 posPlayer) { _posPlayer = posPlayer; }
 
     public override void Muerto()
     {
@@ -107,6 +148,11 @@ public class EnemDispara : Enemigos
 
     IEnumerator Destruir()
     {
+        if (EventosManager.instance.enemigosVivos.Contains(gameObject)) 
+        { 
+            EventosManager.instance.enemigosVivos.Remove(gameObject);
+            EventosManager.instance.DesaparecenParedes();
+        }
         yield return new WaitForSeconds(1);
         _animator.GetComponent<SpriteRenderer>().DOFade(0, 1).OnComplete(() => Destroy(gameObject));
 

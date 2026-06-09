@@ -153,17 +153,6 @@ public class Player : Entity
         Gizmos.DrawWireSphere(_mousePosition, _rango);
     }
 
-    public void CamaraControl(Transform cursor)
-    {
-        var vecCurPle = cursor.position - transform.position;
-        var camPos = vecCurPle / 2f;
-        //if (camPos.magnitude >= 2.5f)
-        //{
-        //    Camera.main.transform.position = new Vector3(camPos.x, camPos.y, Camera.main.transform.position.z);
-        //}
-        Camera.main.transform.position = new Vector3(transform.position.x, transform.position.y, Camera.main.transform.position.z);
-    }
-
     public void Recarga()
     {
         if(_cantBalas >= _maxAmmo)

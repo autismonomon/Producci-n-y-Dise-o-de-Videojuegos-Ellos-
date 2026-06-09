@@ -28,5 +28,10 @@ public class BalaEnem : Balas
             collision.GetComponent<Player>().DañoRecivido(_daño);
             Destroy(gameObject);
         }
+         if(collision.gameObject.layer == 11) 
+        {
+            SoundManager.instance.PlaySFX(SoundManager.instance.golpearObjeto);
+            Destroy(gameObject); 
+        }
     }
 }

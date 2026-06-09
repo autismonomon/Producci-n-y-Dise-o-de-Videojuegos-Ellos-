@@ -33,11 +33,14 @@ public class PleControls
 
         _movi.Rotacion(_mouse);
 
-        _player.CamaraControl(_mouse);
 
         if (Input.GetKeyDown(KeyCode.Space)) { _movi.Dash(_dashForce); }
 
-        if(Input.GetMouseButtonDown(0)) { _player.Disparo(); }
+        if(Input.GetMouseButtonDown(0)) 
+        {
+            EnemDispara.instance.PosPlayer(_player.transform.position);
+            _player.Disparo();
+        }
 
         if (Input.GetKeyDown(KeyCode.R)) { _player.Recarga(); }
     }
