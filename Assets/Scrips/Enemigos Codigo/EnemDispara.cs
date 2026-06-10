@@ -45,7 +45,13 @@ public class EnemDispara : Enemigos
 
     private void Update()
     {
-        if(_player.transform.position.x < transform.position.x) { transform.localScale = new Vector3(Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z); }
+        if (GameManager.instance.pausado)
+        {
+            return;
+        }
+
+
+        if (_player.transform.position.x < transform.position.x) { transform.localScale = new Vector3(Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z); }
         else { transform.localScale = new Vector3(-Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z); }
         _dirBala = _player.transform.position - _spownBala.transform.position;
         _spownBala.transform.right = _dirBala;

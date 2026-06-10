@@ -60,6 +60,11 @@ public class Player : Entity
 
     private void Update()
     {
+        if (GameManager.instance.pausado)
+        {
+            return;
+        }
+
         if (!_animator.GetBool("Muerto"))
         {
 
@@ -190,7 +195,8 @@ public class Player : Entity
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.layer == 14) 
-        { 
+        {
+            GameManager.instance.IniciarAnimacion();
             EventosManager.instance.Eventos();
             Destroy(collision.gameObject);
         }
