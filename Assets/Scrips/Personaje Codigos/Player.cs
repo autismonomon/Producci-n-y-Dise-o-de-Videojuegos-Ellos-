@@ -23,7 +23,7 @@ public class Player : Entity
     [SerializeField]
     private float _fireRate;
 
-    private float _cdDisparo;
+    private float _cdDisparo = 5;
 
     [Header("Codigos Personajes")]
     private PlaMovimiento _plamoviento;
@@ -64,6 +64,7 @@ public class Player : Entity
         {
 
             _pleControls.Disparo();
+            _pleControls.PosPlayer(transform.position);
         }
     }
 

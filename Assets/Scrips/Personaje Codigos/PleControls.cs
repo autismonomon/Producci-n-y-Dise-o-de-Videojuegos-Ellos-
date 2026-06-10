@@ -7,6 +7,7 @@ public class PleControls
     private PlaMovimiento _movi;
     private Player _player;
     private Vector2 _mousePosition;
+    private Vector2 _playerPosition;
     private Transform _mouse;
 
 
@@ -36,18 +37,34 @@ public class PleControls
 
         if (Input.GetKeyDown(KeyCode.Space)) { _movi.Dash(_dashForce); }
 
-        if(Input.GetMouseButtonDown(0)) 
+        if (Input.GetMouseButtonDown(0))
         {
-            EnemDispara.instance.PosPlayer(_player.transform.position);
+
             _player.Disparo();
         }
 
         if (Input.GetKeyDown(KeyCode.R)) { _player.Recarga(); }
     }
 
+    public void PosPlayer(Vector2 player)
+    {
+        _playerPosition = player;
+    }
+
     public void Disparo()
     {
-        if (Input.GetMouseButtonDown(0)) { _player.Disparo(); }
+        if (Input.GetMouseButtonDown(0)) 
+        {
+            //if (EventosManager.instance.enemigosVivos.Count != 0) { EnemDispara.instance.PosPlayer(_playerPosition); }
+            if(EventosManager.instance.enemigosVivos.Count != 0)
+            {
+                foreach (GameObject enemigo in EventosManager.instance.enemigosVivos)
+                {
+                    enemigo.GetComponent<EnemDispara>().PosPlayer(_playerPosition);
+                }
+            }
+            _player.Disparo();
+        }
 
         if (Input.GetKeyDown(KeyCode.R)) { _player.Recarga(); }
     }

@@ -8311,7 +8311,7 @@ PrefabInstance:
       objectReference: {fileID: 1662389639}
     - target: {fileID: 6863777615396876895, guid: 4fdc566f7f5c1f14c9166fa0d6cd2b4b, type: 3}
       propertyPath: _personajeLayer.m_Bits
-      value: 128
+      value: 2176
       objectReference: {fileID: 0}
     - target: {fileID: 8564150558196515554, guid: 4fdc566f7f5c1f14c9166fa0d6cd2b4b, type: 3}
       propertyPath: m_LocalScale.x
@@ -41068,7 +41068,7 @@ PrefabInstance:
       objectReference: {fileID: 1662389639}
     - target: {fileID: 6863777615396876895, guid: 4fdc566f7f5c1f14c9166fa0d6cd2b4b, type: 3}
       propertyPath: _personajeLayer.m_Bits
-      value: 128
+      value: 2176
       objectReference: {fileID: 0}
     - target: {fileID: 8564150558196515554, guid: 4fdc566f7f5c1f14c9166fa0d6cd2b4b, type: 3}
       propertyPath: m_LocalScale.x
@@ -42556,7 +42556,7 @@ PrefabInstance:
       objectReference: {fileID: 1662389639}
     - target: {fileID: 6863777615396876895, guid: 4fdc566f7f5c1f14c9166fa0d6cd2b4b, type: 3}
       propertyPath: _personajeLayer.m_Bits
-      value: 128
+      value: 2176
       objectReference: {fileID: 0}
     - target: {fileID: 8564150558196515554, guid: 4fdc566f7f5c1f14c9166fa0d6cd2b4b, type: 3}
       propertyPath: m_LocalScale.x

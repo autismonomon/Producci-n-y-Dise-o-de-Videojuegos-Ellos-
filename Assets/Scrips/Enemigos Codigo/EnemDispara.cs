@@ -52,7 +52,6 @@ public class EnemDispara : Enemigos
         _hit = Physics2D.Raycast(_spownBala.transform.position, _dirBala, _rangoVision, _personajeLayer);
         if (_hit.collider != null && _hit.transform.gameObject.layer == 7)
         {
-            Debug.Log("Entre");
             Comportamiento();
         }
 
@@ -92,6 +91,7 @@ public class EnemDispara : Enemigos
         _animator.SetBool("Correr", true);
         var dri = posPla - (Vector2)transform.position;
         dri = dri.normalized;
+        Debug.Log(posPla);
         _rb.linearVelocity = dri * _velocidad;
         if (Vector2.Distance((Vector2)transform.position, posPla) < _rangoFrenado)
         {
