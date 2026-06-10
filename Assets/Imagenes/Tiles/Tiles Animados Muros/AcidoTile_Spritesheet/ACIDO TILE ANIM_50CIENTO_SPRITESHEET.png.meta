@@ -1,0 +1,331 @@
+fileFormatVersion: 2
+guid: 64da0144057d0c64e9e26fa20a53e411
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8346636144611581930
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_0
+  - first:
+      213: 1971718465073693763
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_1
+  - first:
+      213: 8405335652597541726
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_2
+  - first:
+      213: 660727493227638805
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_3
+  - first:
+      213: -7669642328968050677
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_4
+  - first:
+      213: 1892651330384338494
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_5
+  - first:
+      213: 6315815750143059977
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_6
+  - first:
+      213: -1948731494036158404
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_7
+  - first:
+      213: 7220909168978996206
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_8
+  - first:
+      213: -983620174772676142
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_9
+  - first:
+      213: 1069188992377775775
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_10
+  - first:
+      213: 5691270906305453197
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_11
+  - first:
+      213: -7002941443870356613
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_12
+  - first:
+      213: 2275942156428600500
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_13
+  - first:
+      213: 2193204308766946238
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_14
+  - first:
+      213: 7523199291306409947
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_15
+  - first:
+      213: -2861119121029320882
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_16
+  - first:
+      213: 6055760239876390133
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_17
+  - first:
+      213: -8052256066359742427
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_18
+  - first:
+      213: -2554830261961270290
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_19
+  - first:
+      213: -6950699754521364288
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_20
+  - first:
+      213: -5994424766399053610
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_21
+  - first:
+      213: 7181306102210029754
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_22
+  - first:
+      213: 539709144122077179
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_23
+  - first:
+      213: 964974841229598298
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_24
+  - first:
+      213: 6173178002050136525
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_25
+  - first:
+      213: 840036332734271638
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_26
+  - first:
+      213: 8003862346496724450
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_27
+  - first:
+      213: -7691722749534707082
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_28
+  - first:
+      213: 3953871717523958136
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_29
+  - first:
+      213: -6452873442718157517
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_30
+  - first:
+      213: -6929818759665604795
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_31
+  - first:
+      213: 951787181563031115
+    second: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610adfa16aaca2c80800000000000000
+      internalID: -8346636144611581930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 312
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344cbc35f73fc5b10800000000000000
+      internalID: 1971718465073693763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 312
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ba00f1e30c5a470800000000000000
+      internalID: 8405335652597541726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 312
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510fa2787206b2900800000000000000
+      internalID: 660727493227638805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACIDO TILE ANIM_50CIENTO_SPRITESHEET_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 312
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b084f83ffe4ff8590800000000000000
+      internalID: -7669642328968050677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 60c90335e99c2054494eb229836904fa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ACIDO TILE ANIM_50CIENTO_SPRITESHEET_0: -8346636144611581930
+      ACIDO TILE ANIM_50CIENTO_SPRITESHEET_1: 1971718465073693763
+      ACIDO TILE ANIM_50CIENTO_SPRITESHEET_2: 8405335652597541726
+      ACIDO TILE ANIM_50CIENTO_SPRITESHEET_3: 660727493227638805
+      ACIDO TILE ANIM_50CIENTO_SPRITESHEET_4: -7669642328968050677
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

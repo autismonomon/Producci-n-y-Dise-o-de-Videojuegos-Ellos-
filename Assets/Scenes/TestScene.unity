@@ -2202,6 +2202,7 @@ MonoBehaviour:
   _rangoAccion: 2.5
   _player: {fileID: 1494225131}
   _velDisparo: 25
+  _rangoFrenado: 0
   _bala: {fileID: 5289691547504688196, guid: 07dc195edba1feb4b887f699c52737c8, type: 3}
   _spownBala: {fileID: 132748081}
   _personajeLayer:
