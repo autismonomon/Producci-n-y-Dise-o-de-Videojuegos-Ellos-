@@ -9,9 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu Principal.unity
     guid: 2cdac76c770109945a4ed89c5b24a1b5
   - enabled: 1
-    path: Assets/Scenes/Cinematica 1.unity
-    guid: ec3d820a08727f44bab846ee71580627
-  - enabled: 1
     path: Assets/Scenes/Nivel 1.unity
     guid: 4d4d3708ec448f840996757ea2c2532f
   - enabled: 1
