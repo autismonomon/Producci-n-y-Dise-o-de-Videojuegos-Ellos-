@@ -15,7 +15,11 @@ public class GameManager : MonoBehaviour
     [SerializeField]
     private GameObject _oscuridad;
 
+    public CanvasGroup panelDeCinematicas;
+
     bool _gane;
+
+    public bool pausado = false;
 
     public static GameManager instance;
 
@@ -35,17 +39,46 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //
+        if (Input.GetKeyDown(KeyCode.P))
+        {
+            Pausar();
+        }
+
         if (player.mori)
         { 
             Time.timeScale = 0;
             _derrota.SetActive(true);
         }
-        else if (!_gane) {Time.timeScale = 1; }
+        else if (!_gane && pausado != true) {Time.timeScale = 1; }
 
         _cajas.RemoveAll(item => item == null);
 
         if (_cajas.Count == 0) { _oscuridad.SetActive(false); }
+
     }
+
+    public void Pausar()
+    {
+        if (pausado == false)
+        {
+            Time.timeScale = 0f;
+            pausado = true;
+        }
+        else
+        {
+            Time.timeScale = 1f;
+            pausado = false;
+        }
+        
+    }
+
+    public void IniciarAnimacion()
+    {
+        panelDeCinematicas.gameObject.SetActive(true);
+        Pausar();
+    }
+
 
     public void Victory()
     {

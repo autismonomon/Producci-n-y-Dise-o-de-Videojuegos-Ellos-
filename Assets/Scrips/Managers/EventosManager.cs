@@ -20,6 +20,8 @@ public class EventosManager : MonoBehaviour
     public List<GameObject> enemigosVivos;
     public static EventosManager instance;
 
+    public CinematicsManager ControladorDeCinematicas;
+
     private void Awake()
     {
         instance = this;
@@ -45,7 +47,7 @@ public class EventosManager : MonoBehaviour
             {
                 enemigosVivos.Add(_primerosEnemigos[i]);
                 _primerosEnemigos[i].SetActive(true);
-                _barreras1[i].SetActive(true);
+                _barreras1[i].SetActive(true);               
                 cantEnemigos++;
             }
         }
