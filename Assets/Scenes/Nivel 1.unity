@@ -1042,7 +1042,7 @@ MonoBehaviour:
   panelDeCinematicas: {fileID: 660048976}
   cinematicass:
   - {fileID: 9100000, guid: 239809728a947184faa909efd847491c, type: 2}
-  - {fileID: 9100000, guid: d9b4ad19c3d95a14895829e53929d5ec, type: 2}
+  - {fileID: 9100000, guid: 037559c1fdc8a1247be21850716ef4ab, type: 2}
   - {fileID: 9100000, guid: d9b4ad19c3d95a14895829e53929d5ec, type: 2}
 --- !u!95 &271495922
 Animator:
@@ -1054,7 +1054,7 @@ Animator:
   m_GameObject: {fileID: 271495919}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 239809728a947184faa909efd847491c, type: 2}
+  m_Controller: {fileID: 9100000, guid: 037559c1fdc8a1247be21850716ef4ab, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 2
   m_ApplyRootMotion: 0
