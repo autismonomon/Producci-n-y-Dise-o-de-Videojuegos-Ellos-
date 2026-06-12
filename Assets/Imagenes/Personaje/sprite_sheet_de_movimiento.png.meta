@@ -265,9 +265,9 @@ TextureImporter:
       name: sprite_sheet_de_movimiento_0
       rect:
         serializedVersion: 2
-        x: 20
+        x: 0
         y: 0
-        width: 50
+        width: 91
         height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -287,9 +287,9 @@ TextureImporter:
       name: sprite_sheet_de_movimiento_1
       rect:
         serializedVersion: 2
-        x: 111
+        x: 91
         y: 0
-        width: 51
+        width: 91
         height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -309,9 +309,9 @@ TextureImporter:
       name: sprite_sheet_de_movimiento_2
       rect:
         serializedVersion: 2
-        x: 203
+        x: 182
         y: 0
-        width: 49
+        width: 91
         height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -331,9 +331,9 @@ TextureImporter:
       name: sprite_sheet_de_movimiento_3
       rect:
         serializedVersion: 2
-        x: 293
+        x: 273
         y: 0
-        width: 50
+        width: 91
         height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -353,9 +353,9 @@ TextureImporter:
       name: sprite_sheet_de_movimiento_4
       rect:
         serializedVersion: 2
-        x: 385
+        x: 364
         y: 0
-        width: 50
+        width: 91
         height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -375,9 +375,9 @@ TextureImporter:
       name: sprite_sheet_de_movimiento_5
       rect:
         serializedVersion: 2
-        x: 483
+        x: 455
         y: 0
-        width: 41
+        width: 91
         height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -397,9 +397,9 @@ TextureImporter:
       name: sprite_sheet_de_movimiento_6
       rect:
         serializedVersion: 2
-        x: 569
+        x: 546
         y: 0
-        width: 50
+        width: 91
         height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -419,9 +419,9 @@ TextureImporter:
       name: sprite_sheet_de_movimiento_7
       rect:
         serializedVersion: 2
-        x: 659
+        x: 637
         y: 0
-        width: 49
+        width: 91
         height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -441,9 +441,9 @@ TextureImporter:
       name: sprite_sheet_de_movimiento_8
       rect:
         serializedVersion: 2
-        x: 756
+        x: 728
         y: 0
-        width: 41
+        width: 91
         height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -463,9 +463,9 @@ TextureImporter:
       name: sprite_sheet_de_movimiento_9
       rect:
         serializedVersion: 2
-        x: 845
+        x: 819
         y: 0
-        width: 47
+        width: 91
         height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -485,9 +485,9 @@ TextureImporter:
       name: sprite_sheet_de_movimiento_10
       rect:
         serializedVersion: 2
-        x: 936
+        x: 910
         y: 0
-        width: 47
+        width: 91
         height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -507,9 +507,9 @@ TextureImporter:
       name: sprite_sheet_de_movimiento_11
       rect:
         serializedVersion: 2
-        x: 1024
+        x: 1001
         y: 0
-        width: 41
+        width: 91
         height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -529,9 +529,9 @@ TextureImporter:
       name: sprite_sheet_de_movimiento_12
       rect:
         serializedVersion: 2
-        x: 1110
+        x: 1092
         y: 0
-        width: 50
+        width: 91
         height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -551,9 +551,9 @@ TextureImporter:
       name: sprite_sheet_de_movimiento_13
       rect:
         serializedVersion: 2
-        x: 1203
+        x: 1183
         y: 0
-        width: 49
+        width: 91
         height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -573,9 +573,9 @@ TextureImporter:
       name: sprite_sheet_de_movimiento_14
       rect:
         serializedVersion: 2
-        x: 1297
+        x: 1274
         y: 0
-        width: 41
+        width: 91
         height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -595,9 +595,9 @@ TextureImporter:
       name: sprite_sheet_de_movimiento_15
       rect:
         serializedVersion: 2
-        x: 1382
+        x: 1365
         y: 0
-        width: 49
+        width: 91
         height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -617,9 +617,9 @@ TextureImporter:
       name: sprite_sheet_de_movimiento_16
       rect:
         serializedVersion: 2
-        x: 1475
+        x: 1456
         y: 0
-        width: 46
+        width: 91
         height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -639,9 +639,9 @@ TextureImporter:
       name: sprite_sheet_de_movimiento_17
       rect:
         serializedVersion: 2
-        x: 1569
+        x: 1547
         y: 0
-        width: 41
+        width: 91
         height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -661,9 +661,9 @@ TextureImporter:
       name: sprite_sheet_de_movimiento_18
       rect:
         serializedVersion: 2
-        x: 1640
+        x: 1638
         y: 0
-        width: 51
+        width: 91
         height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -683,9 +683,9 @@ TextureImporter:
       name: sprite_sheet_de_movimiento_19
       rect:
         serializedVersion: 2
-        x: 1727
+        x: 1729
         y: 0
-        width: 56
+        width: 91
         height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -705,10 +705,10 @@ TextureImporter:
       name: sprite_sheet_de_movimiento_20
       rect:
         serializedVersion: 2
-        x: 1819
-        y: 2
-        width: 81
-        height: 82
+        x: 1820
+        y: 0
+        width: 91
+        height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -727,10 +727,10 @@ TextureImporter:
       name: sprite_sheet_de_movimiento_21
       rect:
         serializedVersion: 2
-        x: 1913
-        y: 2
-        width: 76
-        height: 82
+        x: 1911
+        y: 0
+        width: 91
+        height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -749,9 +749,9 @@ TextureImporter:
       name: sprite_sheet_de_movimiento_22
       rect:
         serializedVersion: 2
-        x: 2003
+        x: 2002
         y: 0
-        width: 53
+        width: 91
         height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -771,9 +771,9 @@ TextureImporter:
       name: sprite_sheet_de_movimiento_23
       rect:
         serializedVersion: 2
-        x: 2120
+        x: 2093
         y: 0
-        width: 42
+        width: 91
         height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -793,9 +793,9 @@ TextureImporter:
       name: sprite_sheet_de_movimiento_24
       rect:
         serializedVersion: 2
-        x: 2221
+        x: 2184
         y: 0
-        width: 53
+        width: 91
         height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -815,9 +815,9 @@ TextureImporter:
       name: sprite_sheet_de_movimiento_25
       rect:
         serializedVersion: 2
-        x: 2312
+        x: 2275
         y: 0
-        width: 56
+        width: 91
         height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -837,10 +837,10 @@ TextureImporter:
       name: sprite_sheet_de_movimiento_26
       rect:
         serializedVersion: 2
-        x: 2377
-        y: 2
-        width: 81
-        height: 82
+        x: 2366
+        y: 0
+        width: 91
+        height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -859,10 +859,10 @@ TextureImporter:
       name: sprite_sheet_de_movimiento_27
       rect:
         serializedVersion: 2
-        x: 2471
-        y: 2
-        width: 76
-        height: 82
+        x: 2457
+        y: 0
+        width: 91
+        height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -881,9 +881,9 @@ TextureImporter:
       name: sprite_sheet_de_movimiento_28
       rect:
         serializedVersion: 2
-        x: 2586
+        x: 2548
         y: 0
-        width: 51
+        width: 91
         height: 92
       alignment: 0
       pivot: {x: 0, y: 0}

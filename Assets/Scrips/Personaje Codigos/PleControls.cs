@@ -55,7 +55,7 @@ public class PleControls
     {
         if (Input.GetMouseButtonDown(0)) 
         {
-            //if (EventosManager.instance.enemigosVivos.Count != 0) { EnemDispara.instance.PosPlayer(_playerPosition); }
+            if (EventosManager.instance.enemigosVivos.Count != 0) { EnemDispara.instance.PosPlayer(_playerPosition); }
             if(EventosManager.instance.enemigosVivos.Count != 0)
             {
                 foreach (GameObject enemigo in EventosManager.instance.enemigosVivos)

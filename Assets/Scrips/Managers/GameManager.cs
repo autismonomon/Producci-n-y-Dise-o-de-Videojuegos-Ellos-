@@ -60,18 +60,18 @@ public class GameManager : MonoBehaviour
 
     public void Pausar()
     {
-        if (pausado == false)
-        {
-            Time.timeScale = 0f;
-            pausado = true;
-        }
-        else
-        {
-            Time.timeScale = 1f;
-            pausado = false;
-        }
-        
+        Time.timeScale = 0f;
+        pausado = true;
+
     }
+
+    public void Reanudar()
+    {
+        Time.timeScale = 1f;
+        pausado = false;
+    }
+
+
 
     public void IniciarAnimacion()
     {
