@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: -6244750443833546525}
   - component: {fileID: 6930871875338027310}
   - component: {fileID: -7342728288758315378}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: Circle 1
   m_TagString: BalaEspinas
   m_Icon: {fileID: 0}

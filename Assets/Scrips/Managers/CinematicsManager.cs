@@ -33,14 +33,14 @@ public class CinematicsManager : MonoBehaviour
     {
         numero++;
         reproduciendo.runtimeAnimatorController = cinematicass[numero];
-        GameManager.instance.Pausar();
+        GameManager.instance.Reanudar();
         panelDeCinematicas.gameObject.SetActive(false);
     }
-    public void InicioDeCinematica()
-    {
-        GameManager.instance.Pausar();
-        panelDeCinematicas.gameObject.SetActive(true);
-    }
+    //public void InicioDeCinematica()
+    //{
+    //    GameManager.instance.Pausar();
+    //    panelDeCinematicas.gameObject.SetActive(true);
+    //}
 
 
 

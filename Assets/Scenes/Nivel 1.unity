@@ -6696,7 +6696,7 @@ Transform:
   m_GameObject: {fileID: 463249382}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4.03, y: -1.23, z: 0}
+  m_LocalPosition: {x: 4.03, y: 0.17, z: 0}
   m_LocalScale: {x: 1, y: 11.51, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6736,7 +6736,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.10073006, y: -0.104756385}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -6746,7 +6746,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 1.2014601, y: 0.7174594}
   m_EdgeRadius: 0
 --- !u!1001 &472752282
 PrefabInstance:
@@ -43787,12 +43787,36 @@ PrefabInstance:
       propertyPath: _fireRate
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 3549241106628176000, guid: a346b37e7c4b4d04a82cfdfb7651497d, type: 3}
+      propertyPath: m_Size.x
+      value: 0.20723394
+      objectReference: {fileID: 0}
+    - target: {fileID: 3549241106628176000, guid: a346b37e7c4b4d04a82cfdfb7651497d, type: 3}
+      propertyPath: m_Size.y
+      value: 0.3508129
+      objectReference: {fileID: 0}
+    - target: {fileID: 3549241106628176000, guid: a346b37e7c4b4d04a82cfdfb7651497d, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.012633409
+      objectReference: {fileID: 0}
+    - target: {fileID: 3549241106628176000, guid: a346b37e7c4b4d04a82cfdfb7651497d, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.27947688
+      objectReference: {fileID: 0}
+    - target: {fileID: 3549241106628176000, guid: a346b37e7c4b4d04a82cfdfb7651497d, type: 3}
+      propertyPath: m_ExcludeLayers.m_Bits
+      value: 122880
+      objectReference: {fileID: 0}
     - target: {fileID: 3997999677433894518, guid: a346b37e7c4b4d04a82cfdfb7651497d, type: 3}
       propertyPath: m_RaycastTarget
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4730424437777144152, guid: a346b37e7c4b4d04a82cfdfb7651497d, type: 3}
       propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5411979381508393497, guid: a346b37e7c4b4d04a82cfdfb7651497d, type: 3}
+      propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5537331946216067119, guid: a346b37e7c4b4d04a82cfdfb7651497d, type: 3}
