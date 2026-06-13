@@ -1039,6 +1039,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   reproduciendo: {fileID: 271495922}
   numero: 0
+  parlante: {fileID: 2018181348}
+  lista: 0
+  clip: 0
+  AudioClipsDeCadaEscena:
+  - clips:
+    - {fileID: 8300000, guid: 42442c0c8c3fc9a42907e6c378d1a31c, type: 3}
+  - clips:
+    - {fileID: 8300000, guid: 37d62762bd6248449aa9c277be6d166c, type: 3}
+    - {fileID: 8300000, guid: ee2a80fd40c47ae44ae7bcb4afbb545c, type: 3}
   panelDeCinematicas: {fileID: 660048976}
   cinematicass:
   - {fileID: 9100000, guid: 239809728a947184faa909efd847491c, type: 2}
@@ -1054,7 +1063,7 @@ Animator:
   m_GameObject: {fileID: 271495919}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 037559c1fdc8a1247be21850716ef4ab, type: 2}
+  m_Controller: {fileID: 9100000, guid: 239809728a947184faa909efd847491c, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 2
   m_ApplyRootMotion: 0
@@ -45653,6 +45662,11 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 2, y: 15}
   m_EdgeRadius: 0
+--- !u!82 &2018181348 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 6608553219828549701, guid: 070b9fed2504a0c4dbdebcbe37583b1f, type: 3}
+  m_PrefabInstance: {fileID: 181993486}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2025560088
 GameObject:
   m_ObjectHideFlags: 0
