@@ -2,6 +2,8 @@ using NUnit.Framework;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using Unity.VisualScripting;
+//using UnityEditor.Animations;
 using UnityEngine;
 
 public class EventosManager : MonoBehaviour
@@ -75,7 +77,12 @@ public class EventosManager : MonoBehaviour
             {
                 for (int i = 0; i < _barreras1.Count; i++)
                 {
-                    _barreras1[i].SetActive(false);
+                    //lo de abajo es magia negra oscura maligna que no entiendo
+                    foreach (Animator child in _barreras1[i].GetComponentsInChildren<Animator>())
+                    {
+                        child.SetTrigger("Trigger");
+                    }
+                    //_barreras1[i].SetActive(false);
                 }
                 _primeros = false;
             }
@@ -83,7 +90,11 @@ public class EventosManager : MonoBehaviour
             {
                 for (int i = 0; i < _barreras1.Count; i++)
                 {
-                    _barreras2[i].SetActive(false);
+                    foreach (Animator child in _barreras2[i].GetComponentsInChildren<Animator>())
+                    {
+                        child.SetTrigger("Trigger");
+                    }
+                    //_barreras2[i].SetActive(false);
                 }
             }
         }

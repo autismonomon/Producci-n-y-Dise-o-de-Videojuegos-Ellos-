@@ -1,0 +1,457 @@
+fileFormatVersion: 2
+guid: e9a2189d73dce8648a82aa669c4497b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -571238913927933599
+    second: 199x177 muro espinas desapareciendo_0
+  - first:
+      213: -1425872447271268836
+    second: 199x177 muro espinas desapareciendo_1
+  - first:
+      213: 8563577589271951693
+    second: 199x177 muro espinas desapareciendo_2
+  - first:
+      213: -7652442519540659712
+    second: 199x177 muro espinas desapareciendo_3
+  - first:
+      213: 4779589922591999504
+    second: 199x177 muro espinas desapareciendo_4
+  - first:
+      213: 1821370917126512672
+    second: 199x177 muro espinas desapareciendo_5
+  - first:
+      213: -8321050526124563678
+    second: 199x177 muro espinas desapareciendo_6
+  - first:
+      213: -2454804290825959393
+    second: 199x177 muro espinas desapareciendo_7
+  - first:
+      213: -3039937883211010695
+    second: 199x177 muro espinas desapareciendo_8
+  - first:
+      213: 7140078521679518335
+    second: 199x177 muro espinas desapareciendo_9
+  - first:
+      213: -6927750663879099987
+    second: 199x177 muro espinas desapareciendo_10
+  - first:
+      213: -619175332802178841
+    second: 199x177 muro espinas desapareciendo_11
+  - first:
+      213: 6102498899443672770
+    second: 199x177 muro espinas desapareciendo_12
+  - first:
+      213: -6462013611628246085
+    second: 199x177 muro espinas desapareciendo_13
+  - first:
+      213: 276893640614210592
+    second: 199x177 muro espinas desapareciendo_14
+  - first:
+      213: 3398585161545660754
+    second: 199x177 muro espinas desapareciendo_15
+  - first:
+      213: -1863097433523163763
+    second: 199x177 muro espinas desapareciendo_16
+  - first:
+      213: 4258221743315707018
+    second: 199x177 muro espinas desapareciendo_17
+  - first:
+      213: 9144543449417820406
+    second: 199x177 muro espinas desapareciendo_18
+  - first:
+      213: -8007172342393668359
+    second: 199x177 muro espinas desapareciendo_19
+  - first:
+      213: 7810194196254655751
+    second: 199x177 muro espinas desapareciendo_20
+  - first:
+      213: -260369208438826496
+    second: 199x177 muro espinas desapareciendo_21
+  - first:
+      213: 5434534968179855868
+    second: 199x177 muro espinas desapareciendo_22
+  - first:
+      213: 3514936673637221222
+    second: 199x177 muro espinas desapareciendo_23
+  - first:
+      213: 6034123130555261555
+    second: 199x177 muro espinas desapareciendo_24
+  - first:
+      213: -1921616693782997959
+    second: 199x177 muro espinas desapareciendo_25
+  - first:
+      213: 3658934414971918259
+    second: 199x177 muro espinas desapareciendo_26
+  - first:
+      213: -8763786019330864226
+    second: 199x177 muro espinas desapareciendo_27
+  - first:
+      213: 3542573234488871543
+    second: 199x177 muro espinas desapareciendo_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 199x177 muro espinas desapareciendo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 199
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161127dfb3d8218f0800000000000000
+      internalID: -571238913927933599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 199x177 muro espinas desapareciendo_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 199
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e01655098463ce0800000000000000
+      internalID: -1425872447271268836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 199x177 muro espinas desapareciendo_2
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 199
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49fc071270f7d670800000000000000
+      internalID: 8563577589271951693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 199x177 muro espinas desapareciendo_3
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 0
+        width: 199
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a0fa6a2101dc590800000000000000
+      internalID: -7652442519540659712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 199x177 muro espinas desapareciendo_4
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 0
+        width: 199
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016022416b3845240800000000000000
+      internalID: 4779589922591999504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 199x177 muro espinas desapareciendo_5
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 0
+        width: 199
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020ad87f23fc64910800000000000000
+      internalID: 1821370917126512672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 199x177 muro espinas desapareciendo_6
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 0
+        width: 199
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223a44022a0b58c80800000000000000
+      internalID: -8321050526124563678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 199x177 muro espinas desapareciendo_7
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 0
+        width: 199
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18c63ce088ceedd0800000000000000
+      internalID: -2454804290825959393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 199x177 muro espinas desapareciendo_8
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 0
+        width: 199
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d64fbf998ffc5d0800000000000000
+      internalID: -3039937883211010695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 199x177 muro espinas desapareciendo_9
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 0
+        width: 199
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a9a11f597a61360800000000000000
+      internalID: 7140078521679518335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 199x177 muro espinas desapareciendo_10
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 0
+        width: 199
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9720bd97fabdf90800000000000000
+      internalID: -6927750663879099987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 67d4de62d41fb66499add0f2a6d1e33e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      199x177 muro espinas desapareciendo_0: -571238913927933599
+      199x177 muro espinas desapareciendo_1: -1425872447271268836
+      199x177 muro espinas desapareciendo_10: -6927750663879099987
+      199x177 muro espinas desapareciendo_2: 8563577589271951693
+      199x177 muro espinas desapareciendo_3: -7652442519540659712
+      199x177 muro espinas desapareciendo_4: 4779589922591999504
+      199x177 muro espinas desapareciendo_5: 1821370917126512672
+      199x177 muro espinas desapareciendo_6: -8321050526124563678
+      199x177 muro espinas desapareciendo_7: -2454804290825959393
+      199x177 muro espinas desapareciendo_8: -3039937883211010695
+      199x177 muro espinas desapareciendo_9: 7140078521679518335
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

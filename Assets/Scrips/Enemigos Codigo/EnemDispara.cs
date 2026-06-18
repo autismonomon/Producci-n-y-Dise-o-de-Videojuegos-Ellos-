@@ -10,6 +10,7 @@ public class EnemDispara : Enemigos
     private float _velDisparo;
     [SerializeField]
     private float _rangoFrenado;
+    [SerializeField]
     private float _contador;
     private bool _muerto;
     private bool _buscar;
@@ -62,6 +63,15 @@ public class EnemDispara : Enemigos
         }
 
         if (_buscar) { Buscar(_posPlayer); }
+
+
+        if (_contador >= _velDisparo)
+        {
+            _contador = _velDisparo;
+        }
+        _contador += 1 * Time.deltaTime;
+
+
     }
 
     private void Comportamiento() //Pasar a una FMS para mejorar el comportamiento
@@ -73,6 +83,11 @@ public class EnemDispara : Enemigos
             _animator.SetBool("Correr", false);
             if (_dirBala.magnitude <= _rangoAccion && _muerto == false) { Correr(); }
             else if (_dirBala.magnitude <= _rangoVision) { Disparo(); }
+        }
+        else
+        {
+            _animator.SetBool("Atacar", false);
+            _animator.SetBool("Correr", false);
         }
     }
 
@@ -120,7 +135,7 @@ public class EnemDispara : Enemigos
             BalaEnem.instance.Daño(_daño);
             _contador = 0;
         }
-        else { _contador++; }
+        //else { _contador++; }
     }
 
     private void OnDrawGizmos()

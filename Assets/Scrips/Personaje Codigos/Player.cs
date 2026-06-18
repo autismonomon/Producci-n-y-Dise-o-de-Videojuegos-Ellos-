@@ -71,6 +71,12 @@ public class Player : Entity
             _pleControls.Disparo();
             _pleControls.PosPlayer(transform.position);
         }
+
+        if (_cdDisparo >= _fireRate)
+        {
+            _cdDisparo = _fireRate;
+        }
+        _cdDisparo += 1 * Time.deltaTime;
     }
 
     private void FixedUpdate()
@@ -111,19 +117,25 @@ public class Player : Entity
 
     public void Disparo()
     {
-        if (_cantBalas > 0)
+        if (_cantBalas > 0 && _cdDisparo >= _fireRate && _recargando == false)
         {
-            if (_cdDisparo >= _fireRate)
+            _cantBalas--;
+            _cdDisparo = 0;
+            //Object.FindAnyObjectByType<UIManager>().cargador.SetTrigger("Disparar");
+            SoundManager.instance.PlaySFX(SoundManager.instance.disperoPlayer);
+            StartCoroutine(AniArma());
+            /*if (_cdDisparo >= _fireRate)
             {
-                _cantBalas--;
-                _cdDisparo = 0;
-                //Object.FindAnyObjectByType<UIManager>().cargador.SetTrigger("Disparar");
-                SoundManager.instance.PlaySFX(SoundManager.instance.disperoPlayer);
-                StartCoroutine(AniArma());
+                
             }
-            else { _cdDisparo++; }
+            else { _cdDisparo++; }*/
         }
-        else { }
+        else if (_cantBalas == 0 && _cdDisparo >= _fireRate && _recargando == false)
+        {
+            _cdDisparo = 0;
+            UIManager.Instance.cargador.SetTrigger("Disparar");
+            SoundManager.instance.PlaySFX(SoundManager.instance.disparoSinBalas);
+        }
     }
 
     IEnumerator AniArma()
