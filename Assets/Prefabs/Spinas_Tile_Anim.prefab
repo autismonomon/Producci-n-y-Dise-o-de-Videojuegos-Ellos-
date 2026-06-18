@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 3799397043698248956}
   - component: {fileID: 8017210797817189270}
   - component: {fileID: 4059373517802355470}
+  - component: {fileID: -7817838934535877683}
   m_Layer: 0
   m_Name: Spinas_Tile_Anim
   m_TagString: Untagged
@@ -110,3 +111,15 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &-7817838934535877683
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6711363683648146917}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 160f34227774b4a49acfbb479648aa11, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

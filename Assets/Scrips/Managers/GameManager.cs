@@ -54,7 +54,7 @@ public class GameManager : MonoBehaviour
 
         _cajas.RemoveAll(item => item == null);
 
-        if (_cajas.Count == 0) { _oscuridad.SetActive(false); }
+        //if (_cajas.Count == 0) { _oscuridad.SetActive(false); }
 
     }
 

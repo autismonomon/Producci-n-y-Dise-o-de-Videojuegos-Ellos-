@@ -1,0 +1,503 @@
+fileFormatVersion: 2
+guid: 1eed76efefa42f54aa3e0768d1c6636e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9145519116628568275
+    second: 2189 x 728 muro espinas_0
+  - first:
+      213: 6408985675572663016
+    second: 2189 x 728 muro espinas_1
+  - first:
+      213: 1315333251063361371
+    second: 2189 x 728 muro espinas_2
+  - first:
+      213: -4669879982461915126
+    second: 2189 x 728 muro espinas_3
+  - first:
+      213: -1335082438580657888
+    second: 2189 x 728 muro espinas_4
+  - first:
+      213: 9051469270562867731
+    second: 2189 x 728 muro espinas_5
+  - first:
+      213: -85586779462488753
+    second: 2189 x 728 muro espinas_6
+  - first:
+      213: -410922417197596353
+    second: 2189 x 728 muro espinas_7
+  - first:
+      213: -4541181973529685269
+    second: 2189 x 728 muro espinas_8
+  - first:
+      213: 5227530442683926091
+    second: 2189 x 728 muro espinas_9
+  - first:
+      213: 4427882601060035346
+    second: 2189 x 728 muro espinas_10
+  - first:
+      213: 3746993088623544297
+    second: 2189 x 728 muro espinas_11
+  - first:
+      213: -7820936278493085078
+    second: 2189 x 728 muro espinas_12
+  - first:
+      213: 4197159951583270125
+    second: 2189 x 728 muro espinas_13
+  - first:
+      213: 510518190246993136
+    second: 2189 x 728 muro espinas_14
+  - first:
+      213: 8814025125194465465
+    second: 2189 x 728 muro espinas_15
+  - first:
+      213: 8708356372722513945
+    second: 2189 x 728 muro espinas_16
+  - first:
+      213: -1656099138888186887
+    second: 2189 x 728 muro espinas_17
+  - first:
+      213: -3734322215738987829
+    second: 2189 x 728 muro espinas_18
+  - first:
+      213: -2388839240019306259
+    second: 2189 x 728 muro espinas_19
+  - first:
+      213: 1590841123617022712
+    second: 2189 x 728 muro espinas_20
+  - first:
+      213: 3472862460297373706
+    second: 2189 x 728 muro espinas_21
+  - first:
+      213: -4846077052530948163
+    second: 2189 x 728 muro espinas_22
+  - first:
+      213: 2989905155724399638
+    second: 2189 x 728 muro espinas_23
+  - first:
+      213: 8131521873460460631
+    second: 2189 x 728 muro espinas_24
+  - first:
+      213: 505214488639170199
+    second: 2189 x 728 muro espinas_25
+  - first:
+      213: 2153229043465689352
+    second: 2189 x 728 muro espinas_26
+  - first:
+      213: -2330564695323969642
+    second: 2189 x 728 muro espinas_27
+  - first:
+      213: 371939800539588537
+    second: 2189 x 728 muro espinas_28
+  - first:
+      213: 2901390864176337359
+    second: 2189 x 728 muro espinas_29
+  - first:
+      213: 2625634352055208373
+    second: 2189 x 728 muro espinas_30
+  - first:
+      213: -1625793628307897346
+    second: 2189 x 728 muro espinas_31
+  - first:
+      213: 6312580070040014659
+    second: 2189 x 728 muro espinas_32
+  - first:
+      213: 3724711169940977010
+    second: 2189 x 728 muro espinas_33
+  - first:
+      213: -629332587637691242
+    second: 2189 x 728 muro espinas_34
+  - first:
+      213: -1597643321859988281
+    second: 2189 x 728 muro espinas_35
+  - first:
+      213: 1621130586453709895
+    second: 2189 x 728 muro espinas_36
+  - first:
+      213: -5557452813536416421
+    second: 2189 x 728 muro espinas_37
+  - first:
+      213: 9167988820850877954
+    second: 2189 x 728 muro espinas_38
+  - first:
+      213: -4649703839003321244
+    second: 2189 x 728 muro espinas_39
+  - first:
+      213: -2008886531147348313
+    second: 2189 x 728 muro espinas_40
+  - first:
+      213: 3338623337810429403
+    second: 2189 x 728 muro espinas_41
+  - first:
+      213: -5701838670180637794
+    second: 2189 x 728 muro espinas_42
+  - first:
+      213: 4416001930509834461
+    second: 2189 x 728 muro espinas_43
+  - first:
+      213: -7844312790679669291
+    second: 2189 x 728 muro espinas_44
+  - first:
+      213: 1583526580507915531
+    second: 2189 x 728 muro espinas_45
+  - first:
+      213: -7996573085520068416
+    second: 2189 x 728 muro espinas_46
+  - first:
+      213: 2713002856565126328
+    second: 2189 x 728 muro espinas_47
+  - first:
+      213: 8695359848730100165
+    second: 2189 x 728 muro espinas_48
+  - first:
+      213: -5069850829713009365
+    second: 2189 x 728 muro espinas_49
+  - first:
+      213: -7861477020220495268
+    second: 2189 x 728 muro espinas_50
+  - first:
+      213: -2214812695963230669
+    second: 2189 x 728 muro espinas_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2189 x 728 muro espinas_0
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 199
+        height: 728
+      alignment: 9
+      pivot: {x: 0.5, y: 0.136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8a0397e296bee70800000000000000
+      internalID: 9145519116628568275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2189 x 728 muro espinas_1
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 199
+        height: 728
+      alignment: 9
+      pivot: {x: 0.5, y: 0.136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e25313048a41f850800000000000000
+      internalID: 6408985675572663016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2189 x 728 muro espinas_2
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 0
+        width: 199
+        height: 728
+      alignment: 9
+      pivot: {x: 0.5, y: 0.136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f24e67f90014210800000000000000
+      internalID: 1315333251063361371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2189 x 728 muro espinas_3
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 0
+        width: 199
+        height: 728
+      alignment: 9
+      pivot: {x: 0.5, y: 0.136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0076a5e5e0413fb0800000000000000
+      internalID: -4669879982461915126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2189 x 728 muro espinas_4
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 0
+        width: 199
+        height: 728
+      alignment: 9
+      pivot: {x: 0.5, y: 0.136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021a98e7895d87de0800000000000000
+      internalID: -1335082438580657888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2189 x 728 muro espinas_5
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 0
+        width: 199
+        height: 728
+      alignment: 9
+      pivot: {x: 0.5, y: 0.136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a834748574d9d70800000000000000
+      internalID: 9051469270562867731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2189 x 728 muro espinas_6
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 0
+        width: 199
+        height: 728
+      alignment: 9
+      pivot: {x: 0.5, y: 0.136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d2bac074fefcef0800000000000000
+      internalID: -85586779462488753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2189 x 728 muro espinas_7
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 0
+        width: 199
+        height: 728
+      alignment: 9
+      pivot: {x: 0.5, y: 0.136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3141bc1d3c1c4af0800000000000000
+      internalID: -410922417197596353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2189 x 728 muro espinas_8
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 0
+        width: 199
+        height: 728
+      alignment: 9
+      pivot: {x: 0.5, y: 0.136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be21b572e0b7af0c0800000000000000
+      internalID: -4541181973529685269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2189 x 728 muro espinas_9
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 0
+        width: 199
+        height: 728
+      alignment: 9
+      pivot: {x: 0.5, y: 0.136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4647b0bd3beb8840800000000000000
+      internalID: 5227530442683926091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 86950ca5b814c3e488a45e646898bb0c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2189 x 728 muro espinas_0: 9145519116628568275
+      2189 x 728 muro espinas_1: 6408985675572663016
+      2189 x 728 muro espinas_2: 1315333251063361371
+      2189 x 728 muro espinas_3: -4669879982461915126
+      2189 x 728 muro espinas_4: -1335082438580657888
+      2189 x 728 muro espinas_5: 9051469270562867731
+      2189 x 728 muro espinas_6: -85586779462488753
+      2189 x 728 muro espinas_7: -410922417197596353
+      2189 x 728 muro espinas_8: -4541181973529685269
+      2189 x 728 muro espinas_9: 5227530442683926091
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -8,7 +8,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: SpinasBlancas_ATACAR
-  m_Speed: 2
+  m_Speed: 4
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: -5182615630301252773}
@@ -24,7 +24,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: e41d6a62f29d25a448f66671d7e65306, type: 2}
+  m_Motion: {fileID: 7400000, guid: 1660479c81a8fb248b3bb0529f082577, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -47,7 +47,7 @@ AnimatorStateMachine:
     m_Position: {x: 780, y: 310, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -1639484272358028127}
-    m_Position: {x: 430, y: -50, z: 0}
+    m_Position: {x: 420, y: -50, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 7695164313300237905}
     m_Position: {x: 420, y: 390, z: 0}
@@ -194,7 +194,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: c05fa8639ac44334eb049d58eb77976e, type: 2}
+  m_Motion: {fileID: 7400000, guid: f398c373cf52a30439ebd6a06ebe6149, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -223,7 +223,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 50c2856c418c00641b74014914dc1075, type: 2}
+  m_Motion: {fileID: 7400000, guid: 21f9aaa5464593d44afb1af8d1e4fe74, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -426,7 +426,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 9f0e6fbb137412e429183ebd7ef060aa, type: 2}
+  m_Motion: {fileID: 7400000, guid: 9e9196900e3e3a4419c59b8e90d787fb, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -571,7 +571,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: SpinasBlancas_RUN
-  m_Speed: 1
+  m_Speed: 2
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: 4191244847744440357}
@@ -586,7 +586,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: ebee20529fd170642aa5618b4712b735, type: 2}
+  m_Motion: {fileID: 7400000, guid: 837882d76a371224bb51d8e55ac4c05d, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
