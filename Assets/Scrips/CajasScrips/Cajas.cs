@@ -20,7 +20,11 @@ public class Cajas : MonoBehaviour
     SpriteRenderer _spriteRenderer;
     [SerializeField]
     private Sprite _sprite;
+    [SerializeField]
+    private ParticleSystem fragmentos;
 
+    [SerializeField]
+    private GameObject explosion;
    
 
     private BoxCollider2D _boxCollider;
@@ -66,6 +70,7 @@ public class Cajas : MonoBehaviour
         {
             SoundManager.instance.PlaySFX(SoundManager.instance.cajaExplosiva);
             _vivo = false;
+            Instantiate(explosion, transform.position, transform.rotation);
             //_spriteRenderer.sprite = null;
             transform.GetChild(0).gameObject.SetActive(true);
             //Explosion.instance.Explo();
@@ -115,6 +120,7 @@ public class Cajas : MonoBehaviour
     public void RecibirDaño(float daño)
     {
         _vida -= daño;
+        
     }
     private void Temblar()
     {
@@ -126,8 +132,9 @@ public class Cajas : MonoBehaviour
         Debug.Log("Entro");
         if (collision.gameObject.layer == 10) 
         {
+            Instantiate(fragmentos, collision.transform.position, Quaternion.Euler(collision.transform.rotation.x, collision.transform.rotation.y, collision.transform.rotation.z + 90));
             SoundManager.instance.PlaySFX(SoundManager.instance.cajaMarronGolpe);
-            _vida--; 
+            _vida--;
             Temblar();
         }
         if (collision.gameObject.CompareTag("BalaEspinas")) { RecibirDaño(1f); }

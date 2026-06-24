@@ -1,0 +1,369 @@
+fileFormatVersion: 2
+guid: 443682388cae4bf428473122c9e029f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6046291749853453099
+    second: CajaExplosion 800x800_0
+  - first:
+      213: 3108926596288963586
+    second: CajaExplosion 800x800_1
+  - first:
+      213: 248710335845277813
+    second: CajaExplosion 800x800_2
+  - first:
+      213: -6341700564271618735
+    second: CajaExplosion 800x800_3
+  - first:
+      213: -156514646281463484
+    second: CajaExplosion 800x800_4
+  - first:
+      213: 8822802076803908116
+    second: CajaExplosion 800x800_5
+  - first:
+      213: -727661061634616126
+    second: CajaExplosion 800x800_6
+  - first:
+      213: -5238053149383762714
+    second: CajaExplosion 800x800_7
+  - first:
+      213: -1486338934626597310
+    second: CajaExplosion 800x800_8
+  - first:
+      213: 5173852357835298331
+    second: CajaExplosion 800x800_9
+  - first:
+      213: 202647204171081023
+    second: CajaExplosion 800x800_10
+  - first:
+      213: 355161313752846466
+    second: CajaExplosion 800x800_11
+  - first:
+      213: 6667691749481940256
+    second: CajaExplosion 800x800_12
+  - first:
+      213: 6312649748071528769
+    second: CajaExplosion 800x800_13
+  - first:
+      213: -8923015809898634829
+    second: CajaExplosion 800x800_14
+  - first:
+      213: -7331966980484441338
+    second: CajaExplosion 800x800_15
+  - first:
+      213: -4753209216847047899
+    second: CajaExplosion 800x800_16
+  - first:
+      213: 5511360212761756931
+    second: CajaExplosion 800x800_17
+  - first:
+      213: 4783605492418310644
+    second: CajaExplosion 800x800_18
+  - first:
+      213: 1375172891694011081
+    second: CajaExplosion 800x800_19
+  - first:
+      213: 3283708828156942010
+    second: CajaExplosion 800x800_20
+  - first:
+      213: 7044195960418005556
+    second: CajaExplosion 800x800_21
+  - first:
+      213: -1177173610333925570
+    second: CajaExplosion 800x800_22
+  - first:
+      213: -7938679492677625587
+    second: CajaExplosion 800x800_23
+  - first:
+      213: -7217326422896544120
+    second: CajaExplosion 800x800_24
+  - first:
+      213: 1424820958063168536
+    second: CajaExplosion 800x800_25
+  - first:
+      213: -7985198388726352605
+    second: CajaExplosion 800x800_26
+  - first:
+      213: 2155022271837171420
+    second: CajaExplosion 800x800_27
+  - first:
+      213: -447751322774782439
+    second: CajaExplosion 800x800_28
+  - first:
+      213: 9031474370868912586
+    second: CajaExplosion 800x800_29
+  - first:
+      213: 6097228952343019224
+    second: CajaExplosion 800x800_30
+  - first:
+      213: 2869962226065841625
+    second: CajaExplosion 800x800_31
+  - first:
+      213: 3372693461429475125
+    second: CajaExplosion 800x800_32
+  - first:
+      213: 42408449698868156
+    second: CajaExplosion 800x800_33
+  - first:
+      213: 5111901404286079771
+    second: CajaExplosion 800x800_34
+  - first:
+      213: 6110904136998555002
+    second: CajaExplosion 800x800_35
+  - first:
+      213: 757379241530159141
+    second: CajaExplosion 800x800_36
+  - first:
+      213: -7671470824280915671
+    second: CajaExplosion 800x800_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CajaExplosion 800x800_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bd366df4eb8e350800000000000000
+      internalID: 6046291749853453099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CajaExplosion 800x800_1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204619c7440252b20800000000000000
+      internalID: 3108926596288963586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CajaExplosion 800x800_2
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570a6049bb8937300800000000000000
+      internalID: 248710335845277813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CajaExplosion 800x800_3
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15522b2cfe0cdf7a0800000000000000
+      internalID: -6341700564271618735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CajaExplosion 800x800_4
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4495f3a22c2f3ddf0800000000000000
+      internalID: -156514646281463484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CajaExplosion 800x800_5
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412c97f5eb3e07a70800000000000000
+      internalID: 8822802076803908116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 547ed022f927b5342b79a2611c09d139
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CajaExplosion 800x800_0: 6046291749853453099
+      CajaExplosion 800x800_1: 3108926596288963586
+      CajaExplosion 800x800_2: 248710335845277813
+      CajaExplosion 800x800_3: -6341700564271618735
+      CajaExplosion 800x800_4: -156514646281463484
+      CajaExplosion 800x800_5: 8822802076803908116
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

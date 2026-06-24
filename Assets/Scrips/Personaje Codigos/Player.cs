@@ -1,3 +1,4 @@
+using DG.Tweening;
 using System.Collections;
 using Unity.VisualScripting;
 using UnityEngine;
@@ -92,6 +93,7 @@ public class Player : Entity
     public override void DañoRecivido(int dañoRes)
     {
         _vidaActual -= dañoRes;
+        EfectoRecibirDaño();
         UIManager.ActualizarVida(_vidaActual, _vidaMax);
         UIManager.Instance.efectoDePantalla.SetTrigger("Dañado");
         SoundManager.instance.PlaySFX(SoundManager.instance.recibirDaño);
@@ -195,6 +197,7 @@ public class Player : Entity
     {
         if(collision.gameObject.layer == 13) 
         {
+            SoundManager.instance.PlaySFX(SoundManager.instance.curarse);
             _vidaActual += 10;
             if(_vidaActual > _vidaMax) { _vidaActual = _vidaMax;}
             Destroy(collision.gameObject);
@@ -223,4 +226,11 @@ public class Player : Entity
     {
         return new Vector2 (Mathf.Cos(_angulo * Mathf.Deg2Rad), Mathf.Sin(_angulo * Mathf.Deg2Rad)) * distancia;
     }
+
+
+    public void EfectoRecibirDaño()
+    {
+        _animator.GetComponent<SpriteRenderer>().DOColor(Color.red, 0.2f).OnComplete(() => _animator.GetComponent<SpriteRenderer>().DOColor(Color.white, 0.2f));
+    }
+
 }

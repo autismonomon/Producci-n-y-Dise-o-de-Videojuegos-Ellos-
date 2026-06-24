@@ -131,6 +131,7 @@ public class EnemDispara : Enemigos
         {
             _animator.SetBool("Atacar", true);
             _animator.SetBool("Correr", false);
+            SoundManager.instance.PlaySFX(SoundManager.instance.disparoEnemigo);
             Instantiate(_bala, _spownBala.transform.position, _spownBala.transform.rotation);
             BalaEnem.instance.Daño(_daño);
             _contador = 0;
@@ -150,9 +151,12 @@ public class EnemDispara : Enemigos
     public override void DañoRecivido(int dañoRes)
     {
         _vidaActual -= dañoRes;
-        
+        EfectoRecibirDaño();
+        SoundManager.instance.PlaySFX(SoundManager.instance.golpearEspinasBlancas);
+
         if (_vidaActual <= 0)
         {
+            GetComponent<BoxCollider2D>().enabled = false;
             _muerto = true;
             Muerto();
         }
@@ -164,6 +168,7 @@ public class EnemDispara : Enemigos
     public override void Muerto()
     {
         _animator.SetBool("Muerto", true);
+        SoundManager.instance.PlaySFX(SoundManager.instance.espinasBlancasMuerto);
         StartCoroutine(Destruir());
     }
 
@@ -180,5 +185,11 @@ public class EnemDispara : Enemigos
         DOTween.Kill(gameObject);
         //Destroy(gameObject);
         //gameObject.SetActive(false);
+    }
+
+
+    public void EfectoRecibirDaño()
+    {
+        _animator.GetComponent<SpriteRenderer>().DOColor(Color.red, 0.2f).OnComplete(() => _animator.GetComponent<SpriteRenderer>().DOColor(Color.white, 0.2f));
     }
 }
