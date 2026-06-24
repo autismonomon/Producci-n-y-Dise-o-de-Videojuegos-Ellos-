@@ -2,6 +2,10 @@ using UnityEngine;
 
 public class BalaPlayer : Balas
 {
+
+    [SerializeField]
+    private ParticleSystem chispas;
+
     private void Awake()
     {
         instance = this;
@@ -20,12 +24,14 @@ public class BalaPlayer : Balas
     {
         if (collision.gameObject.layer == 9)
         {
+            Instantiate(chispas, transform.position, transform.rotation);
             SoundManager.instance.PlaySFX(SoundManager.instance.golpearEnemigo);
             collision.GetComponent<Entity>().DañoRecivido(_daño);
             Destroy(gameObject);
         }
         if(collision.gameObject.layer == 11) 
         {
+            //Instantiate(chispas, transform.position, transform.rotation);
             SoundManager.instance.PlaySFX(SoundManager.instance.golpearObjeto);
             Destroy(gameObject); 
         }

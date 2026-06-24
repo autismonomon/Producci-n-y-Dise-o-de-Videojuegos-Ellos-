@@ -106,6 +106,7 @@ MonoBehaviour:
   _velocidad: 10
   "_da\xF1o": 0
   _vida: 5
+  chispas: {fileID: 3802120332751005954, guid: 0afa7aacef10cfa47b2d1516795e7fb0, type: 3}
 --- !u!95 &770837442883816142
 Animator:
   serializedVersion: 7

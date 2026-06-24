@@ -182,6 +182,8 @@ MonoBehaviour:
   _explosiva: 1
   _marron: 1
   _sprite: {fileID: 2064945616022217468, guid: 45084c5ca058f3d4794bf4de603212e4, type: 3}
+  fragmentos: {fileID: 3738863834461666069, guid: 9db154265ea55524fa16f1ac1df0f9ac, type: 3}
+  explosion: {fileID: 71276618568908872, guid: 71381c8ccec53b94ab1c757ae3be635a, type: 3}
 --- !u!1 &4627816545252613903
 GameObject:
   m_ObjectHideFlags: 0
